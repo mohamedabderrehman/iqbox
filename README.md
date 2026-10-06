@@ -1,10 +1,10 @@
 # IQBox
 
-**Android file and video sharing**
+**Android file and video sharing app with an admin panel**
 
 [العربية](README.ar.md)
 
-Give Android users an upload and sharing workflow while providing public viewers and administrative control.
+Upload and share files and videos from Android, with public sharing pages and an admin panel for accounts, storage and sharing controls.
 
 **Technology:** Kotlin · Jetpack Compose · Express · PostgreSQL · React · PHP
 

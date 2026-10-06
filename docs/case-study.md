@@ -1,8 +1,8 @@
-# Android file and video sharing
+# Android file and video sharing app with an admin panel
 
 ## From the problem to the implementation
 
-Give Android users an upload and sharing workflow while providing public viewers and administrative control.
+Upload and share files and videos from Android, with public sharing pages and an admin panel for accounts, storage and sharing controls.
 
 Authenticated Android upload → API stores bytes and metadata → owner creates a sharing token → public viewer handles its gate → recipient streams or downloads; administrator manages the platform.
 
