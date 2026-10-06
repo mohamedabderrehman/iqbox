@@ -1,0 +1,14 @@
+# Apache .htaccess for IQBox File/Video Page
+# For Nginx, use nginx-video.conf instead
+
+RewriteEngine On
+RewriteBase /
+
+# File share page: /file/{token} -> file.php?token={token}
+RewriteRule ^file/([a-zA-Z0-9_-]+)$ file.php?token=$1 [L,QSA]
+
+# Folder share page: /folder/{token} -> folder.php?token={token}
+RewriteRule ^folder/([a-zA-Z0-9_-]+)$ folder.php?token=$1 [L,QSA]
+
+# Video page (legacy): /v/{token} -> index.php?token={token}
+RewriteRule ^v/([a-zA-Z0-9_-]+)$ index.php?token=$1 [L,QSA]

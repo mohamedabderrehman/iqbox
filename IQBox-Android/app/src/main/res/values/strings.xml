@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IQBox</string>
+    
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="username_or_email">Username or Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="referral_code">Referral Code (Optional)</string>
+    <string name="login_btn">Login</string>
+    <string name="register_btn">Create Account</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="login_here">Login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Login to your account</string>
+    <string name="register_title">Create New Account</string>
+    <string name="register_subtitle">Join IQBox and start earning</string>
+    <string name="logging_in">Logging in…</string>
+    <string name="creating_account">Creating account…</string>
+    <string name="login_error">Login failed</string>
+    <string name="register_error">Registration failed</string>
+    <string name="field_required">This field is required</string>
+    <string name="password_min">Password must be at least 6 characters</string>
+    <string name="passwords_not_match">Passwords do not match</string>
+    
+    <!-- Home -->
+    <string name="home">Home</string>
+    <string name="welcome">Welcome</string>
+    <string name="total_earnings">Total Earnings</string>
+    <string name="total_views">Total Views</string>
+    <string name="total_downloads">Total Downloads</string>
+    <string name="total_files">Total Files</string>
+    <string name="upload_file">Upload File</string>
+    <string name="my_files">My Files</string>
+    <string name="recent_files">Recent Files</string>
+    <string name="view_all">View All</string>
+    <string name="no_files_yet">No files yet</string>
+    <string name="upload_first_file">Upload your first file and start earning!</string>
+    <string name="storage">Storage</string>
+    <string name="used_of">%1$s of %2$s used</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="earnings">Earnings</string>
+    <string name="wallet">Wallet</string>
+    <string name="subscription">Subscription</string>
+    <string name="referral">Referral</string>
+    
+    <!-- Files -->
+    <string name="files">Files</string>
+    <string name="folders">Folders</string>
+    <string name="new_folder">New Folder</string>
+    <string name="folder_name">Folder Name</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="share">Share</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="link_copied">Link copied</string>
+    <string name="folder_link_copied">Folder link copied</string>
+    <string name="no_link_for_folder">No link for this folder</string>
+    <string name="download">Download</string>
+    <string name="file_count">%d files</string>
+    <string name="no_files_in_folder">No files in this folder</string>
+    <string name="delete_file_confirm">Are you sure you want to delete this file?</string>
+    <string name="delete_folder_confirm">Are you sure you want to delete this folder?</string>
+    <string name="file_deleted">File deleted</string>
+    <string name="folder_deleted">Folder deleted</string>
+    <string name="uploading">Uploading…</string>
+    <string name="upload_success">File uploaded successfully</string>
+    <string name="upload_failed">Upload failed</string>
+    <string name="select_file">Select File</string>
+    <string name="file_name">File Name</string>
+    
+    <!-- File Viewer -->
+    <string name="loading_file">Loading file…</string>
+    <string name="file_not_found">File not found</string>
+    <string name="connection_error">Connection error</string>
+    <string name="go_back">Go Back</string>
+    <string name="views">Views</string>
+    <string name="downloads">Downloads</string>
+    <string name="size">Size</string>
+    <string name="download_file">Download File</string>
+    <string name="share_file">Share File</string>
+    <string name="copy_share_link">Copy Share Link</string>
+    
+    <!-- Profile -->
+    <string name="profile_title">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="arabic">العربية</string>
+    <string name="english">English</string>
+    <string name="notifications">Notifications</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirm">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">Save</string>
+    <string name="change_password">Change Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="password_changed">Password changed successfully</string>
+    <string name="member_since">Member since</string>
+    <string name="premium_member">Premium Member</string>
+    <string name="free_member">Free Member</string>
+    
+    <!-- Search -->
+    <string name="search">Search</string>
+    <string name="search_files">Search files…</string>
+    <string name="no_results">No results found</string>
+    <string name="search_hint">Search for files, videos, images…</string>
+    
+    <!-- Subscription -->
+    <string name="subscription_title">IQBox Subscription</string>
+    <string name="iqbox_premium">IQBox Premium</string>
+    <string name="already_subscribed">You are subscribed!</string>
+    <string name="enjoy_no_ads">Enjoy IQBox without ads</string>
+    <string name="premium_subtitle">Ad-free experience + unlimited downloads</string>
+    <string name="subscription_features">Subscription Features</string>
+    <string name="feature_no_ads">Watch videos without any ads</string>
+    <string name="feature_download">Save and download videos to watch anytime</string>
+    <string name="feature_fast">Faster downloads without limits</string>
+    <string name="feature_support">Priority support</string>
+    <string name="choose_plan">Choose Your Plan</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="per_week">/ week</string>
+    <string name="per_month">/ month</string>
+    <string name="best_value">Best Value</string>
+    <string name="subscribe_google_pay">Subscribe via Google Pay</string>
+    <string name="subscription_note">Payment is processed via Google Play. You can cancel anytime from Google Play settings.</string>
+    <string name="subscribe_success">Subscribed successfully! Enjoy IQBox without ads</string>
+    <string name="purchase_cancelled">Purchase cancelled</string>
+    <string name="purchase_error">Error processing purchase</string>
+    
+    <!-- Wallet -->
+    <string name="wallet_title">Wallet</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="transactions">Transactions</string>
+    <string name="no_transactions">No transactions yet</string>
+    <string name="earnings_stats">Earnings Statistics</string>
+    <string name="today_earnings">Today</string>
+    <string name="week_earnings">This Week</string>
+    <string name="month_earnings">This Month</string>
+    <string name="total">Total</string>
+    
+    <!-- Withdraw -->
+    <string name="withdraw_title">Withdraw</string>
+    <string name="withdraw_amount">Amount</string>
+    <string name="withdraw_method">Withdrawal Method</string>
+    <string name="withdraw_details">Account Details</string>
+    <string name="withdraw_submit">Submit Request</string>
+    <string name="withdraw_success">Withdrawal request submitted</string>
+    <string name="withdraw_history">Withdrawal History</string>
+    <string name="pending">Pending</string>
+    <string name="approved">Approved</string>
+    <string name="rejected">Rejected</string>
+    <string name="cancel_request">Cancel Request</string>
+    
+    <!-- Referral -->
+    <string name="referral_title">Referral</string>
+    <string name="your_referral_code">Your Referral Code</string>
+    <string name="copy_code">Copy Code</string>
+    <string name="code_copied">Code copied</string>
+    <string name="share_referral">Share Referral</string>
+    <string name="referred_users">Referred Users</string>
+    <string name="referral_earnings">Referral Earnings</string>
+    <string name="no_referrals">No referrals yet</string>
+    <string name="invite_friends">Invite friends and earn rewards!</string>
+    
+    <!-- General -->
+    <string name="loading">Loading…</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+    <string name="back">Back</string>
+    <string name="confirm">Confirm</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="please_login">Please login first</string>
+    <string name="uploaded_via">Uploaded via %s</string>
+    <string name="time_ago_now">Just now</string>
+    <string name="time_ago_minutes">%d minutes ago</string>
+    <string name="time_ago_hours">%d hours ago</string>
+    <string name="time_ago_days">%d days ago</string>
+    
+    <!-- Help -->
+    <string name="help_title">Help &amp; Support</string>
+    <string name="faq">Frequently Asked Questions</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="report_problem">Report a Problem</string>
+    
+    <!-- Upload -->
+    <string name="upload_title">Upload File</string>
+    <string name="choose_file">Choose File</string>
+    <string name="upload_btn">Upload</string>
+    <string name="upload_to_folder">Upload to folder</string>
+    
+    <!-- Withdraw -->
+    <string name="decline_reason">Decline reason</string>
+    
+    <!-- Promo / Ads -->
+    <string name="remove_ads">Remove Ads</string>
+    <string name="remove_ads_desc">Remove ads, let you enjoy pure experience</string>
+    <string name="experience_now">Experience Now</string>
+    <string name="subscribe_remove_ads">Subscribe to remove ads and enjoy 2TB storage</string>
+    <string name="remove_all_ads">Remove all ads</string>
+    <string name="unlock_features">Unlock advanced features</string>
+    <string name="faster_buffering">Faster Buffering</string>
+    <string name="unlimited_links">Unlimited Shared Links</string>
+    <string name="large_storage">2048GB Storage</string>
+    <string name="ad_remove">Remove Ads</string>
+    <string name="recently">Recently</string>
+    <string name="shared">Shared</string>
+    <string name="viewed">Viewed</string>
+    <string name="saved">Saved</string>
+
+    <!-- Home - Greetings -->
+    <string name="greeting_morning">Good Morning</string>
+    <string name="greeting_afternoon">Good Afternoon</string>
+    <string name="greeting_evening">Good Evening</string>
+    <string name="hint_morning">New day, new earning opportunities</string>
+    <string name="hint_afternoon">Keep going, you\'re building your future</string>
+    <string name="hint_evening">Review your achievements today</string>
+
+    <!-- Home - Hero Card -->
+    <string name="your_earnings_journey">Your Earnings Journey</string>
+    <string name="balance_excellent">Excellent balance</string>
+    <string name="balance_great">Great performance</string>
+    <string name="balance_strong_start">Strong start</string>
+    <string name="balance_started">Journey started</string>
+    <string name="balance_start_earning">Start earning now</string>
+    <string name="next_goal">Next goal: $%d</string>
+    <string name="views_earnings">Views Earnings</string>
+    <string name="total_journey">Total Journey</string>
+    <string name="from_referrals">From Referrals</string>
+    <string name="today_label">today</string>
+
+    <!-- Home - Stats -->
+    <string name="stat_views">Views</string>
+    <string name="stat_files">Files</string>
+    <string name="stat_storage">Storage</string>
+
+    <!-- Home - CTA -->
+    <string name="cta_msg1_title">Every file = a new earning chance</string>
+    <string name="cta_msg1_sub">Upload now and start earning instantly</string>
+    <string name="cta_msg2_title">Turn your files into income</string>
+    <string name="cta_msg2_sub">Every download adds to your balance</string>
+    <string name="cta_msg3_title">Build your income source</string>
+    <string name="cta_msg3_sub">Your files work for you 24/7</string>
+    <string name="upload_btn_short">Upload</string>
+
+    <!-- Home - Empty State -->
+    <string name="empty_journey_title">Your journey starts here</string>
+    <string name="empty_journey_desc">You haven\'t uploaded any files yet - that\'s okay!\nUpload your first file and share its link to start earning</string>
+    <string name="step_upload">Upload a file from your device</string>
+    <string name="step_share">Share the link with your friends</string>
+    <string name="step_earn">Earn from every download!</string>
+    <string name="start_journey_now">Start Your Journey Now</string>
+
+    <!-- Home - File Card -->
+    <string name="copy_short">Copy</string>
+    <string name="share_short">Share</string>
+
+    <!-- Quick Actions -->
+    <string name="action_upload">Upload File</string>
+    <string name="action_my_files">My Files</string>
+    <string name="action_earnings">Earnings</string>
+    <string name="action_referrals">Referrals</string>
+    <string name="action_statistics">Statistics</string>
+    <string name="action_withdraw">Withdraw</string>
+
+    <!-- Tips Carousel -->
+    <string name="tips_title">Earning Tips</string>
+    <string name="tip1_text">Upload larger files = more views</string>
+    <string name="tip1_sub">Larger files attract more attention</string>
+    <string name="tip2_text">Large files get more downloads</string>
+    <string name="tip2_sub">Bigger size means higher value for viewers</string>
+    <string name="tip3_text">Share links in groups</string>
+    <string name="tip3_sub">Every share = a new earning chance</string>
+    <string name="tip4_text">Increase views and earn faster</string>
+    <string name="tip4_sub">Every 1000 views = guaranteed earnings</string>
+    <string name="tip5_text">Invite friends and earn from their earnings</string>
+    <string name="tip5_sub">Ongoing percentage from every friend you invite</string>
+    <string name="tip6_text">Upload exclusive and unique videos</string>
+    <string name="tip6_sub">Exclusive content gets more views</string>
+    <string name="tip7_text">Use attractive titles for your files</string>
+    <string name="tip7_sub">Good titles increase click rates</string>
+    <string name="tip8_text">Transfer earnings to your wallet easily</string>
+    <string name="tip8_sub">Withdraw your earnings anytime you want</string>
+
+    <!-- Drawer -->
+    <string name="drawer_my_files">My Files</string>
+    <string name="drawer_wallet">Wallet</string>
+    <string name="drawer_referrals">Referrals</string>
+    <string name="drawer_subscription">Subscription</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="drawer_help">Help Center</string>
+    <string name="drawer_logout">Logout</string>
+    <string name="drawer_manage_storage">Manage Storage</string>
+    <string name="drawer_available">%s available</string>
+    <string name="drawer_premium_title">IQBox Premium</string>
+    <string name="drawer_premium_desc">More storage and faster uploads</string>
+    <string name="drawer_upgrade">Upgrade</string>
+    <string name="premium_label">Premium</string>
+    <string name="free_label">Free</string>
+
+    <!-- Ad Gate -->
+    <string name="ad_preparing">Preparing...</string>
+    <string name="ad_please_wait">Please wait...</string>
+    <string name="ad_file_opens_after">File will open after the ad ends</string>
+    <string name="ad_watch_now">Watch Now</string>
+    <string name="ad_wait_seconds">Wait %d seconds...</string>
+
+    <!-- Files Screen extras -->
+    <string name="home_label">Home</string>
+    <string name="root_label">Root</string>
+    <string name="create_folder">Create Folder</string>
+    <string name="enter_folder_name">Enter folder name</string>
+    <string name="delete_folder_title">Delete Folder</string>
+    <string name="delete_file_title">Delete File</string>
+    <string name="items_count">%d items</string>
+    <string name="no_items">No items</string>
+    <string name="open">Open</string>
+    <string name="file_link_copied">Link copied</string>
+
+    <!-- Files Screen extras 2 -->
+    <string name="manage_files_subtitle">Manage your files and folders</string>
+    <string name="storage_label">Storage</string>
+    <string name="storage_running_out">Storage running out! Upgrade to Premium = 200GB</string>
+    <string name="downloading_file">Downloading %s...</string>
+    <string name="delete_file_name_confirm">Are you sure you want to delete \"%s\"?</string>
+    <string name="delete_folder_name_confirm">Are you sure you want to delete \"%s\" and all its contents?</string>
+    <string name="download_short">Download</string>
+    <string name="share_folder">Share Folder</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_files">Files</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Upload Screen -->
+    <string name="upload_screen_title">Upload File</string>
+    <string name="upload_screen_subtitle">Choose a file from your device</string>
+    <string name="tap_to_choose_file">Tap to choose a file</string>
+    <string name="file_types_hint">Photos, videos, documents, archives\nMax: 500MB</string>
+    <string name="ready_to_upload">Ready to upload</string>
+    <string name="change_file">Change</string>
+    <string name="file_name_optional">File name (optional)</string>
+    <string name="leave_empty_original">Leave empty for original name</string>
+    <string name="please_select_file">Please select a file to upload</string>
+    <string name="please_login_first">Please login first</string>
+    <string name="upload_success_title">Upload successful!</string>
+    <string name="file_ready_to_share">Your file is ready to share and earn</string>
+    <string name="upload_error">Upload error: %s</string>
+    <string name="upload_failed_msg">Failed to upload file</string>
+    <string name="uploading_progress">Uploading...</string>
+    <string name="upload_file_btn">Upload File</string>
+    <string name="done">Done</string>
+
+    <!-- Wallet Screen extras -->
+    <string name="wallet_screen_title">Wallet</string>
+    <string name="wallet_subtitle">Manage your earnings</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="withdraw_earnings">Withdraw Earnings</string>
+    <string name="total_earned_label">Total Earned</string>
+    <string name="pending_balance">Pending</string>
+    <string name="earnings_breakdown">Earnings Breakdown</string>
+    <string name="views_income">Views Income</string>
+    <string name="referral_income">Referral Income</string>
+    <string name="bonus_income">Bonus Income</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="no_transactions_yet">No transactions yet</string>
+    <string name="earning">Earning</string>
+    <string name="withdrawal_label">Withdrawal</string>
+
+    <!-- Referral Screen extras -->
+    <string name="referral_screen_title">Referrals</string>
+    <string name="referral_subtitle">Invite friends and earn</string>
+    <string name="your_referral_link">Your Referral Link</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="referral_stats">Referral Statistics</string>
+    <string name="total_referrals">Total Referrals</string>
+    <string name="active_referrals">Active Referrals</string>
+    <string name="referral_earnings_label">Referral Earnings</string>
+    <string name="how_it_works">How it works</string>
+    <string name="step1_invite">Invite your friends using your link</string>
+    <string name="step2_register">Your friend registers and starts uploading</string>
+    <string name="step3_earn">You earn a percentage from their earnings</string>
+
+    <!-- Withdraw Screen extras -->
+    <string name="withdraw_screen_title">Withdraw</string>
+    <string name="withdraw_subtitle">Transfer your earnings</string>
+    <string name="minimum_withdraw">Minimum withdrawal: $%s</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="select_method">Select withdrawal method</string>
+    <string name="account_details_hint">Enter your account details</string>
+    <string name="submit_withdrawal">Submit Withdrawal</string>
+    <string name="insufficient_balance">Insufficient balance</string>
+    <string name="withdraw_request_sent">Withdrawal request submitted successfully</string>
+
+    <string name="cpm_rate">Earning: $%s per 1000 downloads</string>
+
+    <!-- Referral Screen extras 2 -->
+    <string name="referral_program">Referral Program</string>
+    <string name="earn_from_friends">Earn from every friend you invite</string>
+    <string name="referral_share_text">Join IQBox and earn from sharing your files!\n\n%s</string>
+    <string name="get_referral_percent">Get %d%% of earnings from every user who signs up with your code!</string>
+    <string name="code_label">Code</string>
+    <string name="share_short_label">Share</string>
+    <string name="total_referrals_label">Total Referrals</string>
+    <string name="total_earnings_label">Total Earnings</string>
+    <string name="month_earnings_label">This Month\'s Earnings</string>
+    <string name="referred_users_label">Referred Users</string>
+    <string name="no_referred_users">No referred users yet</string>
+    <string name="share_code_to_earn">Share your code to start earning!</string>
+    <string name="joined_date">Joined: %s</string>
+    <string name="your_earnings_from">Your earnings from them</string>
+
+    <!-- Withdraw Screen extras 2 -->
+    <string name="failed_load_data">Failed to load data</string>
+    <string name="min_withdraw_error">Minimum withdrawal is $%s</string>
+    <string name="balance_not_enough">Insufficient balance</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="failed_submit_request">Failed to submit request</string>
+    <string name="convert_earnings">Convert your earnings to real money</string>
+    <string name="min_amount_label">Min: $%s</string>
+    <string name="account_details_title">Account Details</string>
+    <string name="region_iraq">Iraq</string>
+    <string name="region_international">International</string>
+    <string name="status_pending">Under Review</string>
+    <string name="status_approved">Approved</string>
+    <string name="status_rejected">Rejected</string>
+
+    <!-- Profile Screen extras 2 -->
+    <string name="your_profile">Your Profile</string>
+    <string name="language_label">Language / اللغة</string>
+    <string name="arabic_label">العربية</string>
+    <string name="start_your_journey">Start your journey</string>
+    <string name="rising_publisher">🚀 Rising Publisher</string>
+    <string name="active_publisher">📁 Active Publisher</string>
+    <string name="new_publisher">🌱 New Publisher</string>
+    <string name="stat_files_label">Files</string>
+    <string name="stat_views_label">Views</string>
+
+    <!-- FileViewer extras -->
+    <string name="file_info">File Info</string>
+    <string name="file_type">File Type</string>
+    <string name="uploaded_on">Uploaded on</string>
+    <string name="open_in_browser">Open in Browser</string>
+
+    <!-- Profile Screen extras -->
+    <string name="account_settings">Account Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="general_settings">General</string>
+    <string name="version_label">Version</string>
+
+    <!-- EmptyState -->
+    <string name="empty_state_title">Nothing here yet</string>
+    <string name="empty_state_subtitle">Start by uploading your first file</string>
+
+    <!-- Search extras -->
+    <string name="search_results">Search Results</string>
+    <string name="search_empty">No files found</string>
+    <string name="search_placeholder">Search files...</string>
+
+    <!-- EmptyState extras -->
+    <string name="empty_no_files">No files yet</string>
+    <string name="empty_no_files_desc">Upload your first file and start earning!</string>
+    <string name="empty_upload_now">Upload Now</string>
+    <string name="empty_no_results">No results</string>
+    <string name="empty_no_results_desc">No files matching \"%s\" were found. Try a different search.</string>
+
+    <!-- SearchBar / SearchScreen extras -->
+    <string name="search_in_files">Search in files...</string>
+    <string name="search_suggestion">Search for any file by name or type</string>
+    <string name="search_category_images">Images</string>
+    <string name="search_category_videos">Videos</string>
+    <string name="search_category_documents">Documents</string>
+    <string name="searching">Searching...</string>
+    <string name="results_count">%d results</string>
+
+    <!-- FileViewer extras 2 -->
+    <string name="download_label">Download</string>
+    <string name="share_label">Share</string>
+    <string name="share_file_chooser">Share File</string>
+    <string name="open_external">Open External</string>
+    <string name="link_copied_toast">Link copied</string>
+    <string name="info_label">Info</string>
+    <string name="pdf_file">PDF File</string>
+    <string name="pdf_open_external">Open this file in an external app</string>
+    <string name="open_pdf">Open PDF</string>
+    <string name="unsupported_file_type">Unsupported file type: %s</string>
+    <string name="open_in_external_app">Open in an external app to view this file</string>
+    <string name="downloading_notification">Downloading %s...</string>
+    <string name="download_started">Download started: %s</string>
+    <string name="download_error">Download error: %s</string>
+
+    <!-- EditProfile extras -->
+    <string name="edit_profile_title">Edit Profile</string>
+    <string name="username_label">Username</string>
+    <string name="please_fill_fields">Please fill in the required fields</string>
+    <string name="profile_updated">Profile updated successfully</string>
+    <string name="update_failed">Update failed</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="change_password_title">Change Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="passwords_dont_match">Passwords do not match</string>
+    <string name="password_min_length">Password must be at least 6 characters</string>
+    <string name="password_changed">Password changed successfully</string>
+    <string name="password_change_failed">Failed to change password</string>
+    <string name="change_password_btn">Change Password</string>
+
+    <!-- ViewModel errors -->
+    <string name="error_no_token">Failed to authenticate</string>
+    <string name="error_load_data">Error loading data: %s</string>
+    <string name="error_generic">Error: %s</string>
+    <string name="folder_created">Folder created successfully</string>
+    <string name="folder_create_failed">Failed to create folder</string>
+    <string name="file_deleted">File deleted</string>
+    <string name="file_delete_failed">Failed to delete file</string>
+    <string name="folder_deleted">Folder deleted</string>
+    <string name="folder_delete_failed">Failed to delete folder</string>
+    <string name="file_moved">File moved successfully</string>
+    <string name="file_move_failed">Failed to move file</string>
+    <string name="error_login">Login failed</string>
+    <string name="error_register">Registration failed</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="login_required">Please login first</string>
+
+    <!-- Service notifications -->
+    <string name="upload_channel_name">File Upload</string>
+    <string name="upload_channel_desc">Notifications for file uploads</string>
+    <string name="uploading_file_notif">Uploading file...</string>
+    <string name="upload_complete_notif">Upload completed successfully</string>
+    <string name="upload_failed_notif">Upload failed</string>
+    <string name="error_unknown">Unknown error occurred</string>
+    <string name="error_no_file">Could not open file</string>
+    <string name="today_label">today</string>
+    <string name="items_label">%d items</string>
+
+    <!-- Terms & Privacy -->
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="agree_terms_prefix">I agree to the </string>
+    <string name="and_word"> and </string>
+    <string name="must_accept_terms">You must accept the Terms of Service and Privacy Policy</string>
+
+    <!-- Captcha -->
+    <string name="captcha_verification">Please complete the verification</string>
+    <string name="captcha_failed">Verification failed, please try again</string>
+
+    <!-- Subscription Terms -->
+    <string name="subscription_note_1">1. Your Google Play account will only be charged once your purchase is confirmed. After successful payment, subscription benefits will be credited to your IqBox account.</string>
+    <string name="subscription_note_2">2. The subscription will auto-renew until you cancel and payment will be processed through the Google Play account from which you originally paid.</string>
+    <string name="subscription_note_3">3. You can turn off auto-renewal at least 24 hours before your billing period ends in your Google Play account.</string>
+    <string name="subscription_note_4">4. Users who have already enjoyed the free trial or the first month discount will not enjoy the first month discount again.</string>
+    <string name="subscription_note_5">5. By subscribing, you agree to IqBox Terms of Service and Privacy Policy.</string>
+</resources>

@@ -1,0 +1,17 @@
+[
+  {
+    "path": "docs/architecture.svg",
+    "sha256": "bb54183d46a79da97fb03fd221443b99f714fdfd7ee0ddeeb594819eaaf91880",
+    "scope": "Actual synthetic application capture"
+  },
+  {
+    "path": "docs/images/admin-dashboard.jpg",
+    "sha256": "3a433dae0d0f7f22f3da1c3b7983fcfb36e225ac0eac04ddda544adbebf25e09",
+    "scope": "Actual synthetic application capture"
+  },
+  {
+    "path": "docs/images/admin-files.jpg",
+    "sha256": "1ec847713c64c27b8e05035fe11e65112fde64995a226fe7459ec29745705674",
+    "scope": "Actual synthetic application capture"
+  }
+]

@@ -1,0 +1,817 @@
+[
+  {
+    "path": ".github/workflows/release.yml",
+    "bytes": 1181,
+    "sha256": "91e6ebe6841255722ea605e0ed3fe23817cc76ade22ac6632bd3ef8d73fc4d46"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 643,
+    "sha256": "fce9b87b29654ad57d951465929cd84564afedf9f31702b0122a0caa1321e37d"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "bytes": 324,
+    "sha256": "11f44e1400db68dc2eb2604192b39bb672a5f6b4b543ce9ebe4bcfda1282668a"
+  },
+  {
+    "path": "IQBox-Android/.gitignore",
+    "bytes": 1500,
+    "sha256": "94c34cdec63fd4c1ae1ed74cae08df8548224155aac8633e988355f7d8d2316c"
+  },
+  {
+    "path": "IQBox-Android/app/build.gradle.kts",
+    "bytes": 3642,
+    "sha256": "564111d4903dff63594757ffa1e571c4e3db52afcc912943259ccff551063ae0"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/AndroidManifest.xml",
+    "bytes": 3084,
+    "sha256": "06afc471b345ed4e2eda15ecd0863b4514f3301b81f0dc823625f8d7b12f10d2"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/MainActivity.kt",
+    "bytes": 3231,
+    "sha256": "d9746530481d5c7114dbc092053462ebfb200b8c8b9c9e9d0a162bd0aca570dc"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/data/AppSettingsManager.kt",
+    "bytes": 2973,
+    "sha256": "3a2ce470dc75bfe02659f4fb6c07c440a7d6ffd2fdedfe3b56dbc1518dc2ffb3"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/data/ads/AdManager.kt",
+    "bytes": 3260,
+    "sha256": "f9a9ea9cf81b009cab9a219074d7cf5c468c084e8662f3376651630694e83dda"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/data/api/ApiClient.kt",
+    "bytes": 1106,
+    "sha256": "ee199f5dfe9c422c5a81e58cbbe0838bb0a8e0f233b92c61aa37d20dab911067"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/data/api/ApiService.kt",
+    "bytes": 17986,
+    "sha256": "df0a7673e0832df0407de96d0ddff3c65deb4cb89b81a0115a82b54cd40a8e64"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/data/api/ProgressRequestBody.kt",
+    "bytes": 2158,
+    "sha256": "b11dc75471958b9adc9fafac10f162dd59ef311640b1c1877917f44538395e43"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/data/billing/BillingManager.kt",
+    "bytes": 6433,
+    "sha256": "8fe4d88a36cc5b1a51f8596e819739c822d806497d26cedea4fcb15faa83b0a4"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/data/local/LocaleManager.kt",
+    "bytes": 1580,
+    "sha256": "6dadb39d87cb6bd5950c027f4eecdb4a41f8de92727b815f2275698c2ef0aaae"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/data/local/TokenManager.kt",
+    "bytes": 2901,
+    "sha256": "1118a926659a81f945a78eb4155fbc5d1d540e12a8e6f1b4c220e019994e3759"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/data/model/AuthResponse.kt",
+    "bytes": 213,
+    "sha256": "5fd2f3a79b9bd2f2a69623d9a45b9b19803de13e1ec287a09ad47a307fb14041"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/data/model/User.kt",
+    "bytes": 209,
+    "sha256": "432c4085c97255953f6844e052c1321fb83578322da8b8d223c9c867d9af227a"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/data/repository/AuthRepository.kt",
+    "bytes": 1309,
+    "sha256": "f91e85da78701d903a41a906482a6b41ebca341acfae70eb3de3be0bb95d9237"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/navigation/NavGraph.kt",
+    "bytes": 20207,
+    "sha256": "99168282d1fbf1e694364d2df6fa514c13853c2c5c2490bb45861770af5a467c"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/navigation/Screen.kt",
+    "bytes": 1786,
+    "sha256": "6977bed9b9d23f3c51114ae279608599840be8767d24af16d681493e76097c38"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/service/FileUploadService.kt",
+    "bytes": 8830,
+    "sha256": "f9cb29f75feb90fe4a81ed77c5c9e431e8b395b34fd6689a8a49582b6e88bf90"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/service/PersistentNotificationService.kt",
+    "bytes": 3900,
+    "sha256": "42a936c7fc23ca15d383c869a2a80996d3f150d5ea128c0fdaf7e9f860aea793"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/AdPopup.kt",
+    "bytes": 5954,
+    "sha256": "3fb2d158110fa1bfc744eda53ef5f5dd5a506de42527abad7f04f96f082a76b5"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/AdViews.kt",
+    "bytes": 1510,
+    "sha256": "963c38a791c47cedce70bd50173b4a4e65a55d1c9a41092050418fad08c63c5b"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/AppDrawerContent.kt",
+    "bytes": 15879,
+    "sha256": "6dfaf78305966343efd7fbe3f86e6940b32ce3ff5da8ff31d3fabc554c79f5c4"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/AppFooter.kt",
+    "bytes": 1336,
+    "sha256": "e3e8693bb54d4228c5e2619fd7d50073b8d0578c906ddd5fadf47ce61434279a"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/AppLogo.kt",
+    "bytes": 5054,
+    "sha256": "601f3ad84a61b04803923f88f74e15728800e1e5621b33a6df11bf623094d5e3"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/BottomNavBar.kt",
+    "bytes": 8292,
+    "sha256": "8f4a8bbb14d13994efbe50eb6cb291089dedb92371f509693d6fba3e0b5597c7"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/DarkModeToggle.kt",
+    "bytes": 2087,
+    "sha256": "8f3af8a85615558dbe0c44bb8fbc797f5230543f8e173788c0dff0a7573e4f63"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/EmptyState.kt",
+    "bytes": 6215,
+    "sha256": "10d7e5a1554119572ec7b7c7ecdb51c8232f9c3b1e60dcdfdabbb644240ea740"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/FloatingBlobs.kt",
+    "bytes": 3342,
+    "sha256": "636d7b9555c7cce9b30fd0a2ccb1f4b74e8c6914e010d27f855145e953eb6e24"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/IQButton.kt",
+    "bytes": 6410,
+    "sha256": "da28d6b34cc970305004e0d870f00b2933e2b240e976b21c78f336644278168a"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/IQTextField.kt",
+    "bytes": 4229,
+    "sha256": "81f61d7746c3945b38af8e7ed22283fb42ed49174c79db02b2bbe0341c91354e"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/InlineSecurityCheck.kt",
+    "bytes": 5801,
+    "sha256": "29cbdb57cb959756e6a30dfecbe2f57eac398dd775ef13d7858bdbb0c3695a20"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/PremiumComponents.kt",
+    "bytes": 15106,
+    "sha256": "858b73ca270100e39d86ed9bf2d9e54698bd4c107cbbab89b5b34f9003eb447a"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/SearchBar.kt",
+    "bytes": 4546,
+    "sha256": "5cb26a2fd387ff309e95589f0d03ee3702d8dc4a550ff66aed72d26d5b25d636"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/SectionHeader.kt",
+    "bytes": 2695,
+    "sha256": "4884efeff593efbab738098c2baaa28c8a520568410d538a301274b809ab0cf8"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/components/SkeletonLoading.kt",
+    "bytes": 5955,
+    "sha256": "9b1ce596e50c81a374e5c73178615a518eaf0d88fde55ff5725b4970d4e4480c"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/files/AdGateScreen.kt",
+    "bytes": 12456,
+    "sha256": "5646f3514eb5ebe0120b9cdcf4edee36f8fb53a48c0a88bc3c1353f9a1871d55"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/files/DeepLinkFolderViewerScreen.kt",
+    "bytes": 22934,
+    "sha256": "593f8112ba81d9ff1c7c781864e054616d619955957a2e8b68b0de60fd900317"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/files/DeepLinkViewerScreen.kt",
+    "bytes": 4430,
+    "sha256": "34a4086f0d82984d3fd9112ac0f9124e711d0d138e5c569656c9583fe8bb2878"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/files/FileUploadScreen.kt",
+    "bytes": 31537,
+    "sha256": "f726d7284600d2016d0d25f8f2774f038f141d158e120d101f038760edae71df"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/files/FileViewerScreen.kt",
+    "bytes": 17400,
+    "sha256": "1a0b3f7d1743b4d2d4871b3a6752ac08fb72d611ad9858b185e2201097c476c4"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/files/FilesScreen.kt",
+    "bytes": 44118,
+    "sha256": "319ed30dbc6081921d913a3e0a7e980e30bad545f6ee768067cb4642a14b6565"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/home/HomeScreen.kt",
+    "bytes": 68796,
+    "sha256": "d247c82a7baf2a195eedd95c3034e8c4121a9c66fabe24bc405743aecb120945"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/login/LoginScreen.kt",
+    "bytes": 13853,
+    "sha256": "38f8bafc172a05622b038dd58b5f98a617fd67f05f997261e4999c61d41e5c3a"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/profile/EditProfileScreen.kt",
+    "bytes": 18276,
+    "sha256": "066143c36abacba53e6def2b02a34398089034efd13e7130775d0c822b54566c"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/profile/HelpSupportScreen.kt",
+    "bytes": 12317,
+    "sha256": "89dc30e0a6e84852eb0deab6ebf32f92e35b11bd78b654db0332c5ed4b9d358b"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/profile/ProfileScreen.kt",
+    "bytes": 32748,
+    "sha256": "64e7a272e0f49199ec5110e5f1eb3d38f6a8bd5af97c1a1407ad7cfd6b83b99e"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/promo/PromoSplashScreen.kt",
+    "bytes": 9720,
+    "sha256": "8d9c5b8b6a52d30d8b4e5845a84b881f9dfa31644fd402f36aab3a1f25f71f64"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/register/RegisterScreen.kt",
+    "bytes": 17092,
+    "sha256": "017c6dd3bd99ebbc9ec7255a731afff2b3c926b569da1d4dae33a06b44eeb44e"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/search/SearchScreen.kt",
+    "bytes": 13408,
+    "sha256": "952e107272a030aeb51a77c525b298991ed3e34a3f7543a4f76c561d902087ea"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/splash/SplashScreen.kt",
+    "bytes": 9269,
+    "sha256": "d6348717cb477e5911cab03997fa0ad79dd5b643030f243428d710bd2ba30231"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/subscription/SubscriptionScreen.kt",
+    "bytes": 23383,
+    "sha256": "0e71c3a104bf2ac2388b513b9c9227d1a93507dbaf139ca1bdd03d0b7cf1ebe8"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/wallet/ReferralScreen.kt",
+    "bytes": 21688,
+    "sha256": "b8ed109c1492f21d3d8d28c0cd445af675e072efdc1b9a6f3bdc3dfe7c8b9d49"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/wallet/WalletScreen.kt",
+    "bytes": 23668,
+    "sha256": "8b3eb89d5d9ac1e7848ff53769a206d3f8a4a993a70b8e83020e02f8ca59f9c0"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/screens/wallet/WithdrawScreen.kt",
+    "bytes": 23271,
+    "sha256": "0f619303beed238a335e968084263b1328d04f22f8c6400b151d3a70acaf9127"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/theme/Color.kt",
+    "bytes": 3382,
+    "sha256": "d6b7e0493eff6f99cbce03733acde89b4d79524fb71e753ae5ed59c6dff6d37f"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/theme/Theme.kt",
+    "bytes": 5946,
+    "sha256": "df384fac38598eb5ac330daf1b7f76145cbeb7c6cf7017aa033f5f01c5be2784"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/theme/ThemeState.kt",
+    "bytes": 1111,
+    "sha256": "3f67008ccf3fef7ea25470e6d3bdacb52d887b8a98610e2ac1395ca959e2d3c0"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/theme/Type.kt",
+    "bytes": 4728,
+    "sha256": "e792c3b0ccf53b0ad8a2a532f983ab3606434a87aaaf8799d5a8204e0cc1fe0c"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/viewmodel/AuthViewModel.kt",
+    "bytes": 5660,
+    "sha256": "3aee48a73c5c135dcf5cdb3f8dd75f11e0f8685a511fa66c879364db8470ba48"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/viewmodel/FilesViewModel.kt",
+    "bytes": 10313,
+    "sha256": "8c4ae7964c58f531742f2b192e56bc1ea487c131b9397ceb457122add4f6587a"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/viewmodel/HomeViewModel.kt",
+    "bytes": 3284,
+    "sha256": "d2d373efa7838afdeb13107f717af05021c670860140fe9c1d30956ff12ddd35"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/viewmodel/ProfileViewModel.kt",
+    "bytes": 3496,
+    "sha256": "8f0bcf19aecf66d2be41c477d0385445f7afb5238b9f1df9d5bd8e0b3dda34ab"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/viewmodel/SearchViewModel.kt",
+    "bytes": 2994,
+    "sha256": "b054e8aa39e5ca991b1b3bd2833630a99bed63073b395d7df76374dd593dade2"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/ui/viewmodel/SubscriptionViewModel.kt",
+    "bytes": 1608,
+    "sha256": "c756402c5189639dcef9386ea3399dea57342c15bf6ae7e9e0dd453babb9f792"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/java/com/iqbox/app/viewmodel/AuthViewModel.kt",
+    "bytes": 2214,
+    "sha256": "06de2d698cce86d30032139c85d314b296eecb441b2c16da040158cf5070cead"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/res/values-ar/strings.xml",
+    "bytes": 36371,
+    "sha256": "8ba714be37593cbf44b9b47a660c89b33d778692266b20e015ac82da66ab650a"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/res/values/font_certs.xml",
+    "bytes": 4253,
+    "sha256": "f1b89384b0827336b0edf3d48f9bd8ffcf5fb9bf7a551f3b10bb3bb9ad621f2a"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/res/values/strings.xml",
+    "bytes": 31246,
+    "sha256": "9e80495bfb541b675a96c998da01f7997bc5239f94a44d29073d960152399e79"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/res/values/themes.xml",
+    "bytes": 242,
+    "sha256": "cb4d9f2897292efa3e6885a33f5a12aa6033ddf45b4b1cc4bf4306fe547ef722"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/res/xml/backup_rules.xml",
+    "bytes": 132,
+    "sha256": "39bb1e28a6825d2f255c42d2e98da2a6bcf14bc9c60137eec82f94e1ad753b9f"
+  },
+  {
+    "path": "IQBox-Android/app/src/main/res/xml/data_extraction_rules.xml",
+    "bytes": 277,
+    "sha256": "d1da634cd61c3a6df87e0d489b21fb6535424441d1ce2cdb9b4d55119299057b"
+  },
+  {
+    "path": "IQBox-Android/build.gradle.kts",
+    "bytes": 171,
+    "sha256": "36e6e0833282ee22f044a456ef0a495efa2fbfab699aa6bebe0d54c423ce7066"
+  },
+  {
+    "path": "IQBox-Android/gradle.properties",
+    "bytes": 135,
+    "sha256": "15bc46f8bf9b00fb5bfc3d7603dfe5881500bd394db45cd87977d481e22243b0"
+  },
+  {
+    "path": "IQBox-Android/gradle/wrapper/gradle-wrapper.jar",
+    "bytes": 43739,
+    "sha256": "9687bf4e8beb2c293cfd1393cbf2854ef68f921757302116033f476289abf7b0"
+  },
+  {
+    "path": "IQBox-Android/gradle/wrapper/gradle-wrapper.properties",
+    "bytes": 257,
+    "sha256": "69afb56cf130c7b5f33befce4431f5801af11d682b090ca97468d55d8ab66839"
+  },
+  {
+    "path": "IQBox-Android/gradlew",
+    "bytes": 8752,
+    "sha256": "734b3879d3501dce471cf0522d3bcbafe76873d9fc5129345b67fb43bd15e933"
+  },
+  {
+    "path": "IQBox-Android/gradlew.bat",
+    "bytes": 2966,
+    "sha256": "57931b17dd228e5c24dac90e815d0bf82477e831a4618dfab4136f5446b42a9f"
+  },
+  {
+    "path": "IQBox-Android/settings.gradle.kts",
+    "bytes": 343,
+    "sha256": "522fe4850749caaf7dc7240b74a8d593b9f0c8ba6f42e7ae3741240f23e9119d"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1098,
+    "sha256": "2f0710fed6c9393bb1e564c55d00df43608b35631d84cc245d414a6e001368d5"
+  },
+  {
+    "path": "README.ar.md",
+    "bytes": 6770,
+    "sha256": "9af535366e8e87676e0812c848a5bdc7a1a96668b54652d34207b0367024c682"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5954,
+    "sha256": "72ed0cb28fdcac8d0e078fc8f9064e567b1bb2f4d8cfa58fb0c2ddb58952dbcf"
+  },
+  {
+    "path": "SECURITY.md",
+    "bytes": 2259,
+    "sha256": "647f8af294afb3272e24ebc9bd98e94dc96196ca5d1038014251333451c35cbc"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "bytes": 2334,
+    "sha256": "e564e47d6802d9b741bcf96cc31e719417234c2cde744d687b5ca290261391a6"
+  },
+  {
+    "path": "admin-panel/.env.example",
+    "bytes": 39,
+    "sha256": "4add6689804288c9ee1a169019d4daede7bd605afda838ebfbd9dfc98a1bfcbf"
+  },
+  {
+    "path": "admin-panel/index.html",
+    "bytes": 389,
+    "sha256": "f843a7903f53ca456a22584e9366d2e42275a58bbbab26850090981aedfaab2b"
+  },
+  {
+    "path": "admin-panel/package-lock.json",
+    "bytes": 104741,
+    "sha256": "f6fefdb240228a5534733f1ed8dbfda5d06fe65c2b4d789ba5682d23c5a8d706"
+  },
+  {
+    "path": "admin-panel/package.json",
+    "bytes": 655,
+    "sha256": "1e43b54942207f7ae9379c197f44707cb732209608222124fbe5ee68781d9cc5"
+  },
+  {
+    "path": "admin-panel/postcss.config.js",
+    "bytes": 86,
+    "sha256": "374f669f08b18e67d0a7264fa45b71228017e604fe7f6db8a5c1bd5ba27e5c98"
+  },
+  {
+    "path": "admin-panel/src/App.jsx",
+    "bytes": 2083,
+    "sha256": "c0438add99e9a47dfc9559f81885007dfb7d0d5392abcc078a8c345504b3ddda"
+  },
+  {
+    "path": "admin-panel/src/api.js",
+    "bytes": 2090,
+    "sha256": "3ec32931aa40b1cd3b9f2d29f3b9523cbc347da70920a4225c4923999826443c"
+  },
+  {
+    "path": "admin-panel/src/components/Layout.jsx",
+    "bytes": 3551,
+    "sha256": "edfe04fe1e1a1a1747c38cd1a130b44dc03939855c05af8739beb8064f549c31"
+  },
+  {
+    "path": "admin-panel/src/index.css",
+    "bytes": 170,
+    "sha256": "74e93fd69f6605cea9c70ba79e13405448678e1f436fb64ed33051d22530db32"
+  },
+  {
+    "path": "admin-panel/src/main.jsx",
+    "bytes": 245,
+    "sha256": "6bf20ed84acf549812a5aca0ace32c7fdbbc1a9e93897e240aaa69cd10964844"
+  },
+  {
+    "path": "admin-panel/src/pages/Dashboard.jsx",
+    "bytes": 2984,
+    "sha256": "7db47e9d3d15ebbd98f732ed99e00766854a49cb7549c60af8b644d6dbcd2ad3"
+  },
+  {
+    "path": "admin-panel/src/pages/FilesManagement.jsx",
+    "bytes": 33302,
+    "sha256": "4a1bc0cb6c4aea3ec28ae6fb917cc007c68c926aa11cd10e52ca427e3ab9acf0"
+  },
+  {
+    "path": "admin-panel/src/pages/FinancialSettings.jsx",
+    "bytes": 20833,
+    "sha256": "7917311f9e4fb0a713580a31da3dea79d31cd266e2e03d06a1323f3e7ffcb672"
+  },
+  {
+    "path": "admin-panel/src/pages/FinancialSettingsTest.jsx",
+    "bytes": 772,
+    "sha256": "a4338e47c0ce1c56c97dff7d62727c1b36af939d47a2847b2e82e0d95c02f654"
+  },
+  {
+    "path": "admin-panel/src/pages/Login.jsx",
+    "bytes": 3150,
+    "sha256": "7bde6f32e994e9fc1edab6584fabea3f3d74531c3494450756281c434f98d1e0"
+  },
+  {
+    "path": "admin-panel/src/pages/Payments.jsx",
+    "bytes": 6338,
+    "sha256": "915e572343943b98ad7e5d0b6609740523c671dd4e5c6c151414782a5a18b13c"
+  },
+  {
+    "path": "admin-panel/src/pages/Plans.jsx",
+    "bytes": 11401,
+    "sha256": "16f777398441677c46818d7427f253aece27e5b597ffe55fee7a0d925d6592bb"
+  },
+  {
+    "path": "admin-panel/src/pages/Settings.jsx",
+    "bytes": 9828,
+    "sha256": "51d605c8b5c0be1f7d789beb6fa87c37e323fc6bae222f1f885e7e7e206b8566"
+  },
+  {
+    "path": "admin-panel/src/pages/Users.jsx",
+    "bytes": 5346,
+    "sha256": "0e3bf99777bd8ee23da7f488dbd512c70b26ebeadba61948c125013fa46bc6aa"
+  },
+  {
+    "path": "admin-panel/src/pages/Videos.jsx",
+    "bytes": 4860,
+    "sha256": "c97aea6487aee39f92a5c33232bbc506ba2a17ce23709854603b83b19a34a9f2"
+  },
+  {
+    "path": "admin-panel/src/pages/Withdrawals.jsx",
+    "bytes": 10689,
+    "sha256": "75675a900d55bc0a2bb9cd83d9777ee5b813aba733bbbc8d4b985369405a6ff8"
+  },
+  {
+    "path": "admin-panel/tailwind.config.js",
+    "bytes": 313,
+    "sha256": "47098fee6e39025109119ecbe8c869187032f6273f9170a10e379a97488c5217"
+  },
+  {
+    "path": "admin-panel/vite.config.js",
+    "bytes": 291,
+    "sha256": "54dec40b50a999e57846c71112a08ec08ed7464d262681da9fffb3c3a2c05bde"
+  },
+  {
+    "path": "config/database.js",
+    "bytes": 640,
+    "sha256": "18b31089d6053fb66bb3478264f8a6d3cfe4ef74eabd6a8c9c14703f24a2b402"
+  },
+  {
+    "path": "config/initDatabase.js",
+    "bytes": 21549,
+    "sha256": "dc082616b45e1cfaaf2fd40cc4eefa5dad03dd3ade0c6d7131aa8f940e39e7ad"
+  },
+  {
+    "path": "docs/api.ar.md",
+    "bytes": 7265,
+    "sha256": "21ca0833c6fe7264dae90eef9b4a879d8ff139d3cca3ece46807555b309fbb2e"
+  },
+  {
+    "path": "docs/api.md",
+    "bytes": 6738,
+    "sha256": "cefbe29512a8f27763ae865a1e5bb6f2e2e23dba8ee6c3274455714c230424d8"
+  },
+  {
+    "path": "docs/architecture.ar.md",
+    "bytes": 1986,
+    "sha256": "0f89195b7fd0bff63ffb501138d06600fa7f057c6b47f21d29e45a2db7cd78a7"
+  },
+  {
+    "path": "docs/architecture.md",
+    "bytes": 2051,
+    "sha256": "ad0e06f632f3fab7360a9c7f0a1974b8ebf55c73316f1ad13b17736be5acef82"
+  },
+  {
+    "path": "docs/architecture.svg",
+    "bytes": 2686,
+    "sha256": "bb54183d46a79da97fb03fd221443b99f714fdfd7ee0ddeeb594819eaaf91880"
+  },
+  {
+    "path": "docs/asset-manifest.json",
+    "bytes": 576,
+    "sha256": "b7a1aea49e6dc064395366812449545bf7d9f9fe6c1d81539a9ef957e36b3e1f"
+  },
+  {
+    "path": "docs/case-study.ar.md",
+    "bytes": 2729,
+    "sha256": "aaf9776f693e3466232488ce7cb29b11e2b26f827bfb29004181bca5450a9a2a"
+  },
+  {
+    "path": "docs/case-study.md",
+    "bytes": 2182,
+    "sha256": "96c3d43f7b6c3d927d194f96b45e329b504b8a49ca501c4a453e046c6b8150d3"
+  },
+  {
+    "path": "docs/demo.ar.md",
+    "bytes": 2313,
+    "sha256": "14c24df6ab07090f1b7667ab5761b6410a5a12abebe475a5c58e8321013dd193"
+  },
+  {
+    "path": "docs/demo.md",
+    "bytes": 1396,
+    "sha256": "430d2f5836430b35dd61ca2ebca303026a7961440a0ba7504fdd51dbccd5292a"
+  },
+  {
+    "path": "docs/deployment.ar.md",
+    "bytes": 2153,
+    "sha256": "0e2ea7c965fdbb13530a8891a9f1353f9763e706617419633b2f8bc2ed2f2080"
+  },
+  {
+    "path": "docs/deployment.md",
+    "bytes": 1697,
+    "sha256": "c1c6ac5e8756f2e35e84280851eb392b117fa9711f961936560a265d555cfc53"
+  },
+  {
+    "path": "docs/images/admin-dashboard.jpg",
+    "bytes": 37093,
+    "sha256": "3a433dae0d0f7f22f3da1c3b7983fcfb36e225ac0eac04ddda544adbebf25e09"
+  },
+  {
+    "path": "docs/images/admin-files.jpg",
+    "bytes": 58350,
+    "sha256": "1ec847713c64c27b8e05035fe11e65112fde64995a226fe7459ec29745705674"
+  },
+  {
+    "path": "docs/setup.ar.md",
+    "bytes": 3907,
+    "sha256": "419c52a4d33f2d8f545bfb4f9a506ab050a5f348e7acfb9b12c4ddb30597c6bc"
+  },
+  {
+    "path": "docs/setup.md",
+    "bytes": 4140,
+    "sha256": "d02dfc499d59d3418e780844e5035d39e14ad89eb4a101b475d521d0d54991bd"
+  },
+  {
+    "path": "docs/verification.ar.md",
+    "bytes": 1764,
+    "sha256": "a6e523c22924a3b264bfae631e405e7c11ccd23120409b04c4ee12b906d749de"
+  },
+  {
+    "path": "docs/verification.md",
+    "bytes": 1566,
+    "sha256": "ef2c265acc625a80d4c35843a98712990da9a16d0f110cb7af56cbac6f2b69c6"
+  },
+  {
+    "path": "docs/walkthrough.ar.md",
+    "bytes": 632,
+    "sha256": "b6fc0c8ac681f500fbff3e920a016f2ee9f060817eb1050daeba5a94cb131564"
+  },
+  {
+    "path": "docs/walkthrough.md",
+    "bytes": 587,
+    "sha256": "435232ca2ef52bf32f44df6d49eecd0d49942f83745a1508c6a34c217729203a"
+  },
+  {
+    "path": "env.example",
+    "bytes": 380,
+    "sha256": "3753b4562712f7f0d8834940f75fedb0544bdd5b37e5651e66ab6b516aae2106"
+  },
+  {
+    "path": "middleware/auth.js",
+    "bytes": 753,
+    "sha256": "226174a1dd196f8e82c6c6d999c4e3b04f68a0f3a8ae0bb38cdd356879f3bfa9"
+  },
+  {
+    "path": "middleware/upload.js",
+    "bytes": 1565,
+    "sha256": "44a15be8c0e6d1933761872451fdabf0e4bfdb07817f48db098348195936a8e8"
+  },
+  {
+    "path": "nginx-video.conf",
+    "bytes": 2141,
+    "sha256": "18d71be474ada450682d980ffe93aad7e4d09b23c4f525a3d39ee91880323e3c"
+  },
+  {
+    "path": "package-lock.json",
+    "bytes": 81600,
+    "sha256": "9b473acc388e94ec27d1db20757405a66dbde0eeace90bc6eea47c1a25541eb0"
+  },
+  {
+    "path": "package.json",
+    "bytes": 620,
+    "sha256": "4051126f16cc916d86f8850b9bee7664fb08b0a2920f5ddc2dfd60642c355907"
+  },
+  {
+    "path": "privacy_policy.html",
+    "bytes": 9038,
+    "sha256": "2636b29345090e7c01f84893fedd7c67f19cc74bf2233d7c8fc6065af6d23e58"
+  },
+  {
+    "path": "routes/admin.js",
+    "bytes": 51752,
+    "sha256": "5954c1a19858058099de831d2f280473aa2075658450c944c86b53201ec07cc3"
+  },
+  {
+    "path": "routes/auth.js",
+    "bytes": 7254,
+    "sha256": "2ffeb36b374e051695e2640955dcf7851e06a05b29369684cb22c4f00ff67e77"
+  },
+  {
+    "path": "routes/filegatead.js",
+    "bytes": 15381,
+    "sha256": "4e67a3cc68476b6e95ac32b3d8cc65e2b592ae1ea75580e7c0b0c58e9e2170b6"
+  },
+  {
+    "path": "routes/files.js",
+    "bytes": 23832,
+    "sha256": "9066ae12cbd4b2b1365b115303b0e15247a39997212af4ac0edf77246b9dba01"
+  },
+  {
+    "path": "routes/folders.js",
+    "bytes": 16780,
+    "sha256": "4068eebd572b23bb49f04de3cb3be04055cbf2811b6044124eb44bda0ff096f7"
+  },
+  {
+    "path": "routes/gatead.js",
+    "bytes": 13123,
+    "sha256": "feae93beb5e025834f8013f82c13acefa243e17b83739b957a9a26ee5d245565"
+  },
+  {
+    "path": "routes/referral.js",
+    "bytes": 7003,
+    "sha256": "03bb8e87277e9f2a0262924bb6357b54e8c496ca3d3a9789afc2188068824bf6"
+  },
+  {
+    "path": "routes/settings.js",
+    "bytes": 2925,
+    "sha256": "998a6032c1c7ae50d32c3f746efa48ac83ba3a2da2ec0d811bd129d9eca9295d"
+  },
+  {
+    "path": "routes/sharing.js",
+    "bytes": 8392,
+    "sha256": "3d50dd8b451a052a06e5f43524b3d26781f5bb7a9e2b0ce5bdffe671f96c764a"
+  },
+  {
+    "path": "routes/subscription.js",
+    "bytes": 7738,
+    "sha256": "0259d229c4c348d2130e1b9b5d936984f51fb38026139c19f5767bf4e641bca5"
+  },
+  {
+    "path": "routes/users.js",
+    "bytes": 13738,
+    "sha256": "7eb05a5486b2ea801a39b71d8224405c3a9146ff95d75e017c1641d00667fcc6"
+  },
+  {
+    "path": "routes/videos.js",
+    "bytes": 14020,
+    "sha256": "fed58627779469c5a3731d4e73336a4dd9dca8d42ef0091e697d038f9bfba47c"
+  },
+  {
+    "path": "routes/wallet.js",
+    "bytes": 13380,
+    "sha256": "12cec01201957a065ffe59b720a970d8adef7c8543ecedc619eb11a1b61f67f6"
+  },
+  {
+    "path": "server.js",
+    "bytes": 3914,
+    "sha256": "bce343f96902d84f1115802e721d7bc5ea141b1f3d1d05950843f9384853d92b"
+  },
+  {
+    "path": "termsofuse.html",
+    "bytes": 9360,
+    "sha256": "83cb86cdca8cd20f74b740a2e0223a57fe9accce04f2fa6761cbba35cdf132d4"
+  },
+  {
+    "path": "tools/bootstrap-demo.js",
+    "bytes": 1270,
+    "sha256": "053bc4a06b6496cb1eb291aebcc9830135004ef2f6fdad3d3fabaf24c8a857b1"
+  },
+  {
+    "path": "tools/check-demo.js",
+    "bytes": 2637,
+    "sha256": "e817845ad352ce5c662bba2ca8f8dd20888e6c1c16bb8f16290a46093f869ec3"
+  },
+  {
+    "path": "video-page/.htaccess",
+    "bytes": 509,
+    "sha256": "35a5fad490f66552c64e371c22aa526ff01ddde63821d8145846ac2eb69f6868"
+  },
+  {
+    "path": "video-page/assets/css/style.css",
+    "bytes": 44751,
+    "sha256": "5ff3a3350309ad3fd18ad06d82b55b5e0acfdb592dc42595a2ad8a7869690c19"
+  },
+  {
+    "path": "video-page/assets/js/player.js",
+    "bytes": 17907,
+    "sha256": "dccca92be1659a558ba8ad17fd4d2c2adf47ffdf4e22e4bc2b5261d2ab215ab2"
+  },
+  {
+    "path": "video-page/config.php",
+    "bytes": 5873,
+    "sha256": "69edf12949581e3587fc4ab558a62f70682a4a41ffc142f4058995d002e983d0"
+  },
+  {
+    "path": "video-page/file.php",
+    "bytes": 26337,
+    "sha256": "4e957efc57d49541b9743a865e2d01f11db4ae929c3a40cee022c457bbdaf2e9"
+  },
+  {
+    "path": "video-page/folder.php",
+    "bytes": 34833,
+    "sha256": "443cfd7caf860b80a9e99ebe772e436e32222ea41f9095c994c9f5411f166cc2"
+  },
+  {
+    "path": "video-page/index.php",
+    "bytes": 36906,
+    "sha256": "a16abdf495291911e5d3c0fda0821d204770327506bb2da3819d97869753618f"
+  },
+  {
+    "path": "video-page/nginx-video.conf",
+    "bytes": 3983,
+    "sha256": "142085c33ab191845e930f2b49b61d0a18e7d0c5fe9b4654276fb47c0b520a89"
+  }
+]

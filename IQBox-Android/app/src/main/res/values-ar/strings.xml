@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IQBox</string>
+    
+    <!-- Auth -->
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">التسجيل</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="username_or_email">اسم المستخدم أو البريد</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="referral_code">كود الإحالة (اختياري)</string>
+    <string name="login_btn">تسجيل الدخول</string>
+    <string name="register_btn">إنشاء حساب</string>
+    <string name="no_account">ليس لديك حساب؟</string>
+    <string name="have_account">لديك حساب بالفعل؟</string>
+    <string name="create_account">إنشاء حساب</string>
+    <string name="login_here">تسجيل الدخول</string>
+    <string name="welcome_back">مرحباً بعودتك</string>
+    <string name="login_subtitle">سجّل دخولك إلى حسابك</string>
+    <string name="register_title">إنشاء حساب جديد</string>
+    <string name="register_subtitle">انضم إلى IQBox وابدأ بالربح</string>
+    <string name="logging_in">جاري تسجيل الدخول…</string>
+    <string name="creating_account">جاري إنشاء الحساب…</string>
+    <string name="login_error">فشل تسجيل الدخول</string>
+    <string name="register_error">فشل التسجيل</string>
+    <string name="field_required">هذا الحقل مطلوب</string>
+    <string name="password_min">كلمة المرور يجب أن تكون 6 أحرف على الأقل</string>
+    <string name="passwords_not_match">كلمات المرور غير متطابقة</string>
+    
+    <!-- Home -->
+    <string name="home">الرئيسية</string>
+    <string name="welcome">مرحباً</string>
+    <string name="total_earnings">إجمالي الأرباح</string>
+    <string name="total_views">إجمالي المشاهدات</string>
+    <string name="total_downloads">إجمالي التحميلات</string>
+    <string name="total_files">إجمالي الملفات</string>
+    <string name="upload_file">رفع ملف</string>
+    <string name="my_files">ملفاتي</string>
+    <string name="recent_files">الملفات الأخيرة</string>
+    <string name="view_all">عرض الكل</string>
+    <string name="no_files_yet">لا توجد ملفات بعد</string>
+    <string name="upload_first_file">ارفع أول ملف وابدأ بالربح!</string>
+    <string name="storage">التخزين</string>
+    <string name="used_of">%1$s من %2$s مستخدم</string>
+    <string name="quick_actions">إجراءات سريعة</string>
+    <string name="earnings">الأرباح</string>
+    <string name="wallet">المحفظة</string>
+    <string name="subscription">الاشتراك</string>
+    <string name="referral">الإحالة</string>
+    
+    <!-- Files -->
+    <string name="files">الملفات</string>
+    <string name="folders">المجلدات</string>
+    <string name="new_folder">مجلد جديد</string>
+    <string name="folder_name">اسم المجلد</string>
+    <string name="create">إنشاء</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="rename">إعادة تسمية</string>
+    <string name="share">مشاركة</string>
+    <string name="copy_link">نسخ الرابط</string>
+    <string name="link_copied">تم نسخ الرابط</string>
+    <string name="folder_link_copied">تم نسخ رابط المجلد</string>
+    <string name="no_link_for_folder">لا يوجد رابط لهذا المجلد</string>
+    <string name="download">تحميل</string>
+    <string name="file_count">%d ملف</string>
+    <string name="no_files_in_folder">لا توجد ملفات في هذا المجلد</string>
+    <string name="delete_file_confirm">هل أنت متأكد من حذف هذا الملف؟</string>
+    <string name="delete_folder_confirm">هل أنت متأكد من حذف هذا المجلد؟</string>
+    <string name="file_deleted">تم حذف الملف</string>
+    <string name="folder_deleted">تم حذف المجلد</string>
+    <string name="uploading">جاري الرفع…</string>
+    <string name="upload_success">تم رفع الملف بنجاح</string>
+    <string name="upload_failed">فشل الرفع</string>
+    <string name="select_file">اختر ملف</string>
+    <string name="file_name">اسم الملف</string>
+    
+    <!-- File Viewer -->
+    <string name="loading_file">جاري تحميل الملف…</string>
+    <string name="file_not_found">الملف غير موجود</string>
+    <string name="connection_error">خطأ في الاتصال</string>
+    <string name="go_back">رجوع</string>
+    <string name="views">مشاهدة</string>
+    <string name="downloads">تحميل</string>
+    <string name="size">الحجم</string>
+    <string name="download_file">تحميل الملف</string>
+    <string name="share_file">مشاركة الملف</string>
+    <string name="copy_share_link">نسخ رابط المشاركة</string>
+    
+    <!-- Profile -->
+    <string name="profile_title">الملف الشخصي</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="language">اللغة</string>
+    <string name="arabic">العربية</string>
+    <string name="english">English</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="help_support">المساعدة والدعم</string>
+    <string name="about">حول التطبيق</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="logout_confirm">هل أنت متأكد من تسجيل الخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="save">حفظ</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="current_password">كلمة المرور الحالية</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="password_changed">تم تغيير كلمة المرور بنجاح</string>
+    <string name="member_since">عضو منذ</string>
+    <string name="premium_member">عضو مميز</string>
+    <string name="free_member">عضو مجاني</string>
+    
+    <!-- Search -->
+    <string name="search">البحث</string>
+    <string name="search_files">البحث في الملفات…</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="search_hint">ابحث عن ملفات، فيديوهات، صور…</string>
+    
+    <!-- Subscription -->
+    <string name="subscription_title">اشتراك IQBox</string>
+    <string name="iqbox_premium">IQBox Premium</string>
+    <string name="already_subscribed">أنت مشترك حالياً!</string>
+    <string name="enjoy_no_ads">استمتع بـ IQBox بدون إعلانات</string>
+    <string name="premium_subtitle">تجربة بدون إعلانات + تحميل غير محدود</string>
+    <string name="subscription_features">مزايا الاشتراك</string>
+    <string name="feature_no_ads">مشاهدة الفيديوهات بدون أي إعلانات</string>
+    <string name="feature_download">حفظ وتنزيل الفيديوهات لمشاهدتها في أي وقت</string>
+    <string name="feature_fast">تحميل أسرع بدون قيود</string>
+    <string name="feature_support">دعم فني أولوية</string>
+    <string name="choose_plan">اختر خطتك</string>
+    <string name="weekly">أسبوعي</string>
+    <string name="monthly">شهري</string>
+    <string name="per_week">/ أسبوع</string>
+    <string name="per_month">/ شهر</string>
+    <string name="best_value">الأفضل قيمة</string>
+    <string name="subscribe_google_pay">اشترك الآن عبر Google Pay</string>
+    <string name="subscription_note">يتم الدفع عبر Google Play. يمكنك إلغاء الاشتراك في أي وقت من إعدادات Google Play.</string>
+    <string name="subscribe_success">تم الاشتراك بنجاح! استمتع بـ IQBox بدون إعلانات</string>
+    <string name="purchase_cancelled">تم إلغاء عملية الشراء</string>
+    <string name="purchase_error">حدث خطأ في عملية الشراء</string>
+    
+    <!-- Wallet -->
+    <string name="wallet_title">المحفظة</string>
+    <string name="available_balance">الرصيد المتاح</string>
+    <string name="withdraw">سحب</string>
+    <string name="transactions">المعاملات</string>
+    <string name="no_transactions">لا توجد معاملات بعد</string>
+    <string name="earnings_stats">إحصائيات الأرباح</string>
+    <string name="today_earnings">اليوم</string>
+    <string name="week_earnings">هذا الأسبوع</string>
+    <string name="month_earnings">هذا الشهر</string>
+    <string name="total">الإجمالي</string>
+    
+    <!-- Withdraw -->
+    <string name="withdraw_title">سحب الأرباح</string>
+    <string name="withdraw_amount">المبلغ</string>
+    <string name="withdraw_method">طريقة السحب</string>
+    <string name="withdraw_details">تفاصيل الحساب</string>
+    <string name="withdraw_submit">إرسال الطلب</string>
+    <string name="withdraw_success">تم إرسال طلب السحب</string>
+    <string name="withdraw_history">سجل السحوبات</string>
+    <string name="pending">قيد المراجعة</string>
+    <string name="approved">تمت الموافقة</string>
+    <string name="rejected">مرفوض</string>
+    <string name="cancel_request">إلغاء الطلب</string>
+    
+    <!-- Referral -->
+    <string name="referral_title">الإحالة</string>
+    <string name="your_referral_code">كود الإحالة الخاص بك</string>
+    <string name="copy_code">نسخ الكود</string>
+    <string name="code_copied">تم نسخ الكود</string>
+    <string name="share_referral">مشاركة الإحالة</string>
+    <string name="referred_users">المستخدمون المُحالون</string>
+    <string name="referral_earnings">أرباح الإحالة</string>
+    <string name="no_referrals">لا توجد إحالات بعد</string>
+    <string name="invite_friends">ادعُ أصدقاءك واربح مكافآت!</string>
+    
+    <!-- General -->
+    <string name="loading">جاري التحميل…</string>
+    <string name="error">خطأ</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="ok">حسناً</string>
+    <string name="back">رجوع</string>
+    <string name="confirm">تأكيد</string>
+    <string name="success">نجاح</string>
+    <string name="failed">فشل</string>
+    <string name="connection_failed">فشل الاتصال</string>
+    <string name="please_login">يرجى تسجيل الدخول</string>
+    <string name="uploaded_via">رفع عبر %s</string>
+    <string name="time_ago_now">الآن</string>
+    <string name="time_ago_minutes">منذ %d دقيقة</string>
+    <string name="time_ago_hours">منذ %d ساعة</string>
+    <string name="time_ago_days">منذ %d يوم</string>
+    
+    <!-- Help -->
+    <string name="help_title">المساعدة والدعم</string>
+    <string name="faq">الأسئلة الشائعة</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="report_problem">الإبلاغ عن مشكلة</string>
+    
+    <!-- Upload -->
+    <string name="upload_title">رفع ملف</string>
+    <string name="choose_file">اختر ملف</string>
+    <string name="upload_btn">رفع</string>
+    <string name="upload_to_folder">رفع إلى مجلد</string>
+    
+    <!-- Withdraw -->
+    <string name="decline_reason">سبب الرفض</string>
+    
+    <!-- Promo / Ads -->
+    <string name="remove_ads">إزالة الإعلانات</string>
+    <string name="remove_ads_desc">أزل الإعلانات واستمتع بتجربة نقية</string>
+    <string name="experience_now">جرّب الآن</string>
+    <string name="subscribe_remove_ads">اشترك لإزالة الإعلانات والاستمتاع بمساحة 2 تيرابايت</string>
+    <string name="remove_all_ads">إزالة جميع الإعلانات</string>
+    <string name="unlock_features">فتح الميزات المتقدمة</string>
+    <string name="faster_buffering">تحميل أسرع</string>
+    <string name="unlimited_links">روابط مشاركة غير محدودة</string>
+    <string name="large_storage">مساحة 2048 جيجابايت</string>
+    <string name="ad_remove">إزالة الإعلانات</string>
+    <string name="recently">الأخيرة</string>
+    <string name="shared">المشاركة</string>
+    <string name="viewed">المشاهدة</string>
+    <string name="saved">المحفوظة</string>
+
+    <!-- Home - Greetings -->
+    <string name="greeting_morning">صباح الخير</string>
+    <string name="greeting_afternoon">مساء النور</string>
+    <string name="greeting_evening">مساء الخير</string>
+    <string name="hint_morning">يوم جديد، فرص جديدة للربح</string>
+    <string name="hint_afternoon">استمر، أنت تبني مستقبلك</string>
+    <string name="hint_evening">راجع إنجازاتك اليوم</string>
+
+    <!-- Home - Hero Card -->
+    <string name="your_earnings_journey">رحلة أرباحك</string>
+    <string name="balance_excellent">رصيدك ممتاز</string>
+    <string name="balance_great">أداء رائع</string>
+    <string name="balance_strong_start">بداية قوية</string>
+    <string name="balance_started">بدأت رحلتك</string>
+    <string name="balance_start_earning">ابدأ رحلة الربح</string>
+    <string name="next_goal">الهدف القادم: $%d</string>
+    <string name="views_earnings">أرباح المشاهدات</string>
+    <string name="total_journey">إجمالي الرحلة</string>
+    <string name="from_referrals">من الإحالات</string>
+    <string name="today_label">اليوم</string>
+
+    <!-- Home - Stats -->
+    <string name="stat_views">مشاهدات</string>
+    <string name="stat_files">ملفات</string>
+    <string name="stat_storage">تخزين</string>
+
+    <!-- Home - CTA -->
+    <string name="cta_msg1_title">كل ملف = فرصة ربح جديدة</string>
+    <string name="cta_msg1_sub">ارفع الآن وابدأ الربح فوراً</string>
+    <string name="cta_msg2_title">حوّل ملفاتك إلى دخل</string>
+    <string name="cta_msg2_sub">كل تحميل يضيف لرصيدك</string>
+    <string name="cta_msg3_title">ابنِ مصدر دخلك</string>
+    <string name="cta_msg3_sub">ملفاتك تعمل لك 24/7</string>
+    <string name="upload_btn_short">ارفع</string>
+
+    <!-- Home - Empty State -->
+    <string name="empty_journey_title">رحلتك تبدأ هنا</string>
+    <string name="empty_journey_desc">لم ترفع أي ملف بعد - وهذا طبيعي!\nارفع أول ملف وشارك رابطه لتبدأ بجمع الأرباح</string>
+    <string name="step_upload">ارفع ملف من جهازك</string>
+    <string name="step_share">شارك الرابط مع أصدقائك</string>
+    <string name="step_earn">اربح من كل تحميل!</string>
+    <string name="start_journey_now">ابدأ رحلتك الآن</string>
+
+    <!-- Home - File Card -->
+    <string name="copy_short">نسخ</string>
+    <string name="share_short">مشاركة</string>
+
+    <!-- Quick Actions -->
+    <string name="action_upload">رفع ملف</string>
+    <string name="action_my_files">ملفاتي</string>
+    <string name="action_earnings">الارباح</string>
+    <string name="action_referrals">الاحالات</string>
+    <string name="action_statistics">الاحصائيات</string>
+    <string name="action_withdraw">السحب</string>
+
+    <!-- Tips Carousel -->
+    <string name="tips_title">نصائح للربح</string>
+    <string name="tip1_text">ارفع ملفات اكبر = مشاهدات اكثر</string>
+    <string name="tip1_sub">الملفات الكبيرة تجذب اهتمام اكبر</string>
+    <string name="tip2_text">الملفات الكبيرة تحصل تحميلات اكثر</string>
+    <string name="tip2_sub">حجم اكبر يعني قيمة اعلى للمشاهد</string>
+    <string name="tip3_text">شارك الرابط بالمجموعات</string>
+    <string name="tip3_sub">كل مشاركة = فرصة ربح جديدة</string>
+    <string name="tip4_text">زد مشاهداتك واربح اسرع</string>
+    <string name="tip4_sub">كل 1000 مشاهدة = ارباح مضمونة</string>
+    <string name="tip5_text">ادعُ اصدقاءك واربح من ارباحهم</string>
+    <string name="tip5_sub">نسبة مستمرة من كل صديق تدعوه</string>
+    <string name="tip6_text">ارفع فيديوهات حصرية ومميزة</string>
+    <string name="tip6_sub">المحتوى الحصري يحصل مشاهدات اكثر</string>
+    <string name="tip7_text">استخدم عناوين جذابة لملفاتك</string>
+    <string name="tip7_sub">العنوان الجيد يزيد نسبة النقر</string>
+    <string name="tip8_text">حول ارباحك لمحفظتك بسهولة</string>
+    <string name="tip8_sub">اسحب ارباحك في اي وقت تريد</string>
+
+    <!-- Drawer -->
+    <string name="drawer_my_files">ملفاتي</string>
+    <string name="drawer_wallet">المحفظة</string>
+    <string name="drawer_referrals">الاحالات</string>
+    <string name="drawer_subscription">الاشتراك</string>
+    <string name="drawer_settings">الاعدادات</string>
+    <string name="drawer_help">مركز المساعدة</string>
+    <string name="drawer_logout">تسجيل الخروج</string>
+    <string name="drawer_manage_storage">ادارة المساحة</string>
+    <string name="drawer_available">%s متاح</string>
+    <string name="drawer_premium_title">IQBox Premium</string>
+    <string name="drawer_premium_desc">مساحة اكبر وتحميل اسرع</string>
+    <string name="drawer_upgrade">ترقية</string>
+    <string name="premium_label">Premium</string>
+    <string name="free_label">Free</string>
+
+    <!-- Ad Gate -->
+    <string name="ad_preparing">جاري التحضير...</string>
+    <string name="ad_please_wait">يرجى الانتظار...</string>
+    <string name="ad_file_opens_after">سيتم فتح الملف بعد انتهاء الاعلان</string>
+    <string name="ad_watch_now">مشاهدة الآن</string>
+    <string name="ad_wait_seconds">انتظر %d ثوانٍ...</string>
+
+    <!-- Files Screen extras -->
+    <string name="home_label">الرئيسية</string>
+    <string name="root_label">الجذر</string>
+    <string name="create_folder">إنشاء مجلد</string>
+    <string name="enter_folder_name">أدخل اسم المجلد</string>
+    <string name="delete_folder_title">حذف المجلد</string>
+    <string name="delete_file_title">حذف الملف</string>
+    <string name="items_count">%d عنصر</string>
+    <string name="no_items">لا توجد عناصر</string>
+    <string name="open">فتح</string>
+    <string name="file_link_copied">تم نسخ الرابط</string>
+
+    <!-- Files Screen extras 2 -->
+    <string name="manage_files_subtitle">إدارة ملفاتك ومجلداتك</string>
+    <string name="storage_label">التخزين</string>
+    <string name="storage_running_out">المساحة تنفد! ترقية إلى Premium = 200GB</string>
+    <string name="downloading_file">جاري تحميل %s...</string>
+    <string name="delete_file_name_confirm">هل أنت متأكد من حذف \"%s\"؟</string>
+    <string name="delete_folder_name_confirm">هل أنت متأكد من حذف \"%s\" وجميع محتوياته؟</string>
+    <string name="download_short">تحميل</string>
+    <string name="share_folder">مشاركة المجلد</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_files">الملفات</string>
+    <string name="nav_search">البحث</string>
+    <string name="nav_profile">الملف الشخصي</string>
+
+    <!-- Upload Screen -->
+    <string name="upload_screen_title">رفع ملف</string>
+    <string name="upload_screen_subtitle">اختر ملف من جهازك</string>
+    <string name="tap_to_choose_file">اضغط لاختيار ملف</string>
+    <string name="file_types_hint">صور، فيديوهات، مستندات، ملفات مضغوطة\nالحد الأقصى: 500MB</string>
+    <string name="ready_to_upload">جاهز للرفع</string>
+    <string name="change_file">تغيير</string>
+    <string name="file_name_optional">اسم الملف (اختياري)</string>
+    <string name="leave_empty_original">اترك فارغاً للاسم الأصلي</string>
+    <string name="please_select_file">يرجى اختيار ملف للرفع</string>
+    <string name="please_login_first">يرجى تسجيل الدخول أولاً</string>
+    <string name="upload_success_title">تم الرفع بنجاح!</string>
+    <string name="file_ready_to_share">ملفك جاهز للمشاركة والربح</string>
+    <string name="upload_error">خطأ في الرفع: %s</string>
+    <string name="upload_failed_msg">فشل في رفع الملف</string>
+    <string name="uploading_progress">جاري الرفع...</string>
+    <string name="upload_file_btn">رفع الملف</string>
+    <string name="done">تم</string>
+
+    <!-- Wallet Screen extras -->
+    <string name="wallet_screen_title">المحفظة</string>
+    <string name="wallet_subtitle">إدارة أرباحك</string>
+    <string name="current_balance">الرصيد الحالي</string>
+    <string name="withdraw_earnings">سحب الأرباح</string>
+    <string name="total_earned_label">إجمالي الأرباح</string>
+    <string name="pending_balance">قيد الانتظار</string>
+    <string name="earnings_breakdown">تفاصيل الأرباح</string>
+    <string name="views_income">أرباح المشاهدات</string>
+    <string name="referral_income">أرباح الإحالات</string>
+    <string name="bonus_income">أرباح المكافآت</string>
+    <string name="recent_transactions">المعاملات الأخيرة</string>
+    <string name="no_transactions_yet">لا توجد معاملات بعد</string>
+    <string name="earning">ربح</string>
+    <string name="withdrawal_label">سحب</string>
+
+    <!-- Referral Screen extras -->
+    <string name="referral_screen_title">الإحالات</string>
+    <string name="referral_subtitle">ادعُ أصدقاءك واربح</string>
+    <string name="your_referral_link">رابط الإحالة الخاص بك</string>
+    <string name="share_with_friends">شارك مع أصدقائك</string>
+    <string name="referral_stats">إحصائيات الإحالة</string>
+    <string name="total_referrals">إجمالي الإحالات</string>
+    <string name="active_referrals">الإحالات النشطة</string>
+    <string name="referral_earnings_label">أرباح الإحالة</string>
+    <string name="how_it_works">كيف تعمل</string>
+    <string name="step1_invite">ادعُ أصدقاءك باستخدام رابطك</string>
+    <string name="step2_register">صديقك يسجل ويبدأ بالرفع</string>
+    <string name="step3_earn">تربح نسبة من أرباحهم</string>
+
+    <!-- Withdraw Screen extras -->
+    <string name="withdraw_screen_title">السحب</string>
+    <string name="withdraw_subtitle">حوّل أرباحك</string>
+    <string name="minimum_withdraw">الحد الأدنى للسحب: $%s</string>
+    <string name="enter_amount">أدخل المبلغ</string>
+    <string name="select_method">اختر طريقة السحب</string>
+    <string name="account_details_hint">أدخل تفاصيل حسابك</string>
+    <string name="submit_withdrawal">إرسال طلب السحب</string>
+    <string name="insufficient_balance">الرصيد غير كافٍ</string>
+    <string name="withdraw_request_sent">تم إرسال طلب السحب بنجاح</string>
+
+    <string name="cpm_rate">الربح: $%s لكل 1000 تحميل</string>
+
+    <!-- Referral Screen extras 2 -->
+    <string name="referral_program">برنامج الإحالات</string>
+    <string name="earn_from_friends">اربح من كل صديق تدعوه</string>
+    <string name="referral_share_text">انضم إلى IQBox واربح من مشاركة ملفاتك!\n\n%s</string>
+    <string name="get_referral_percent">احصل على %d%% من أرباح كل مستخدم يسجل بكودك!</string>
+    <string name="code_label">الكود</string>
+    <string name="share_short_label">مشاركة</string>
+    <string name="total_referrals_label">إجمالي الإحالات</string>
+    <string name="total_earnings_label">إجمالي الأرباح</string>
+    <string name="month_earnings_label">أرباح هذا الشهر</string>
+    <string name="referred_users_label">المستخدمين المُحالين</string>
+    <string name="no_referred_users">لا يوجد مستخدمين مُحالين بعد</string>
+    <string name="share_code_to_earn">شارك كودك لتبدأ بالربح!</string>
+    <string name="joined_date">انضم: %s</string>
+    <string name="your_earnings_from">أرباحك منه</string>
+
+    <!-- Withdraw Screen extras 2 -->
+    <string name="failed_load_data">فشل تحميل البيانات</string>
+    <string name="min_withdraw_error">الحد الأدنى للسحب هو $%s</string>
+    <string name="balance_not_enough">الرصيد غير كافي</string>
+    <string name="fill_all_fields">يرجى ملء جميع الحقول</string>
+    <string name="failed_submit_request">فشل إرسال الطلب</string>
+    <string name="convert_earnings">حوّل أرباحك إلى نقود حقيقية</string>
+    <string name="min_amount_label">الحد الأدنى: $%s</string>
+    <string name="account_details_title">تفاصيل الحساب</string>
+    <string name="region_iraq">العراق</string>
+    <string name="region_international">دولي</string>
+    <string name="status_pending">قيد المراجعة</string>
+    <string name="status_approved">تمت الموافقة</string>
+    <string name="status_rejected">مرفوض</string>
+
+    <!-- Profile Screen extras 2 -->
+    <string name="your_profile">ملفك الشخصي</string>
+    <string name="language_label">Language / اللغة</string>
+    <string name="arabic_label">العربية</string>
+    <string name="start_your_journey">ابدأ رحلتك</string>
+    <string name="rising_publisher">🚀 ناشر صاعد</string>
+    <string name="active_publisher">📁 ناشر نشط</string>
+    <string name="new_publisher">🌱 ناشر جديد</string>
+    <string name="stat_files_label">ملفات</string>
+    <string name="stat_views_label">مشاهدات</string>
+
+    <!-- FileViewer extras -->
+    <string name="file_info">معلومات الملف</string>
+    <string name="file_type">نوع الملف</string>
+    <string name="uploaded_on">تاريخ الرفع</string>
+    <string name="open_in_browser">فتح في المتصفح</string>
+
+    <!-- Profile Screen extras -->
+    <string name="account_settings">إعدادات الحساب</string>
+    <string name="appearance">المظهر</string>
+    <string name="general_settings">عام</string>
+    <string name="version_label">الإصدار</string>
+
+    <!-- EmptyState -->
+    <string name="empty_state_title">لا يوجد شيء هنا بعد</string>
+    <string name="empty_state_subtitle">ابدأ برفع أول ملف لك</string>
+
+    <!-- Search extras -->
+    <string name="search_results">نتائج البحث</string>
+    <string name="search_empty">لم يتم العثور على ملفات</string>
+    <string name="search_placeholder">البحث في الملفات...</string>
+
+    <!-- EmptyState extras -->
+    <string name="empty_no_files">لا توجد ملفات بعد</string>
+    <string name="empty_no_files_desc">ارفع أول ملف لك وابدأ بالربح!</string>
+    <string name="empty_upload_now">رفع الآن</string>
+    <string name="empty_no_results">لا توجد نتائج</string>
+    <string name="empty_no_results_desc">لم يتم العثور على ملفات تطابق \"%s\". جرب بحث مختلف.</string>
+
+    <!-- SearchBar / SearchScreen extras -->
+    <string name="search_in_files">ابحث في الملفات...</string>
+    <string name="search_suggestion">ابحث عن أي ملف بالاسم أو النوع</string>
+    <string name="search_category_images">صور</string>
+    <string name="search_category_videos">فيديو</string>
+    <string name="search_category_documents">مستندات</string>
+    <string name="searching">جاري البحث...</string>
+    <string name="results_count">%d نتيجة</string>
+
+    <!-- FileViewer extras 2 -->
+    <string name="download_label">تحميل</string>
+    <string name="share_label">مشاركة</string>
+    <string name="share_file_chooser">مشاركة الملف</string>
+    <string name="open_external">فتح خارجي</string>
+    <string name="link_copied_toast">تم نسخ الرابط</string>
+    <string name="info_label">معلومات</string>
+    <string name="pdf_file">ملف PDF</string>
+    <string name="pdf_open_external">افتح هذا الملف في تطبيق خارجي</string>
+    <string name="open_pdf">فتح PDF</string>
+    <string name="unsupported_file_type">نوع ملف غير مدعوم: %s</string>
+    <string name="open_in_external_app">افتح في تطبيق خارجي لعرض هذا الملف</string>
+    <string name="downloading_notification">جاري تحميل %s...</string>
+    <string name="download_started">بدأ التحميل: %s</string>
+    <string name="download_error">خطأ في التحميل: %s</string>
+
+    <!-- EditProfile extras -->
+    <string name="edit_profile_title">تعديل الملف الشخصي</string>
+    <string name="username_label">اسم المستخدم</string>
+    <string name="please_fill_fields">يرجى ملء الحقول المطلوبة</string>
+    <string name="profile_updated">تم تحديث الملف الشخصي بنجاح</string>
+    <string name="update_failed">فشل التحديث</string>
+    <string name="save_changes">حفظ التغييرات</string>
+    <string name="change_password_title">تغيير كلمة المرور</string>
+    <string name="current_password">كلمة المرور الحالية</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="confirm_new_password">تأكيد كلمة المرور الجديدة</string>
+    <string name="passwords_dont_match">كلمتا المرور غير متطابقتين</string>
+    <string name="password_min_length">كلمة المرور يجب أن تكون 6 أحرف على الأقل</string>
+    <string name="password_changed">تم تغيير كلمة المرور بنجاح</string>
+    <string name="password_change_failed">فشل تغيير كلمة المرور</string>
+    <string name="change_password_btn">تغيير كلمة المرور</string>
+
+    <!-- ViewModel errors -->
+    <string name="error_no_token">فشل في التحقق من الهوية</string>
+    <string name="error_load_data">خطأ في تحميل البيانات: %s</string>
+    <string name="error_generic">خطأ: %s</string>
+    <string name="folder_created">تم إنشاء المجلد بنجاح</string>
+    <string name="folder_create_failed">فشل في إنشاء المجلد</string>
+    <string name="file_deleted">تم حذف الملف</string>
+    <string name="file_delete_failed">فشل في حذف الملف</string>
+    <string name="folder_deleted">تم حذف المجلد</string>
+    <string name="folder_delete_failed">فشل في حذف المجلد</string>
+    <string name="file_moved">تم نقل الملف بنجاح</string>
+    <string name="file_move_failed">فشل في نقل الملف</string>
+    <string name="error_login">فشل تسجيل الدخول</string>
+    <string name="error_register">فشل التسجيل</string>
+    <string name="unknown_error">خطأ غير معروف</string>
+    <string name="login_required">يرجى تسجيل الدخول أولاً</string>
+
+    <!-- Service notifications -->
+    <string name="upload_channel_name">رفع الملفات</string>
+    <string name="upload_channel_desc">إشعارات رفع الملفات</string>
+    <string name="uploading_file_notif">جاري رفع الملف...</string>
+    <string name="upload_complete_notif">تم رفع الملف بنجاح</string>
+    <string name="upload_failed_notif">فشل رفع الملف</string>
+    <string name="error_unknown">حدث خطأ غير معروف</string>
+    <string name="error_no_file">لا يمكن فتح الملف</string>
+    <string name="today_label">اليوم</string>
+    <string name="items_label">%d عنصر</string>
+
+    <!-- Terms & Privacy -->
+    <string name="terms_of_service">شروط الخدمة</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="agree_terms_prefix">أوافق على </string>
+    <string name="and_word"> و </string>
+    <string name="must_accept_terms">يجب الموافقة على شروط الخدمة وسياسة الخصوصية</string>
+
+    <!-- Captcha -->
+    <string name="captcha_verification">يرجى إكمال التحقق</string>
+    <string name="captcha_failed">فشل التحقق، يرجى المحاولة مرة أخرى</string>
+
+    <!-- Subscription Terms -->
+    <string name="subscription_note_1">1. لن يتم تحصيل رسوم من حساب Google Play الخاص بك إلا بعد تأكيد عملية الشراء. بعد الدفع الناجح، سيتم إضافة مزايا الاشتراك إلى حسابك في IqBox.</string>
+    <string name="subscription_note_2">2. سيتم تجديد الاشتراك تلقائياً حتى تقوم بالإلغاء وستتم معالجة الدفع من خلال حساب Google Play الذي دفعت منه في الأصل.</string>
+    <string name="subscription_note_3">3. يمكنك إيقاف التجديد التلقائي قبل 24 ساعة على الأقل من انتهاء فترة الفوترة في حساب Google Play الخاص بك.</string>
+    <string name="subscription_note_4">4. المستخدمون الذين استمتعوا بالفعل بالتجربة المجانية أو خصم الشهر الأول لن يستمتعوا بخصم الشهر الأول مرة أخرى.</string>
+    <string name="subscription_note_5">5. بالاشتراك، فإنك توافق على شروط خدمة IqBox وسياسة الخصوصية.</string>
+</resources>
