@@ -104,3 +104,5 @@ Express --> UploadStorage
 - [صفحة المشروع](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/ar/projects/iqbox/)
 
 - [جولة الواجهة والفيديو](docs/walkthrough.ar.md)
+
+- [تفاصيل هندسية ودروس التنفيذ](docs/engineering-notes.ar.md)
