@@ -315,7 +315,7 @@ export default function FilesManagement() {
             >
               <span className="inline-flex items-center gap-2">
                 <Folder className="w-4 h-4" />
-                المجلدات ({foldersTotal})
+                المجلدات ({activeTab === 'folders' ? foldersTotal : (stats?.total_folders || 0)})
               </span>
             </button>
           </nav>

@@ -374,10 +374,10 @@ $downloadAllUrl = PUBLIC_API_BASE_URL . '/folders/download/' . $shareToken;
                     <div class="logo-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg></div>
                     <span class="logo-text">IQ<span>Box</span></span>
                 </a>
-                <a href="<?php echo htmlspecialchars(PLAY_STORE_URL ?: '#app-unavailable', ENT_QUOTES); ?>" class="nav-app-btn" target="_blank">
+                <?php if (PLAY_STORE_URL): ?><a href="<?php echo htmlspecialchars(PLAY_STORE_URL ?: '#app-unavailable', ENT_QUOTES); ?>" class="nav-app-btn" target="_blank">
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
                     حمّل التطبيق
-                </a>
+                </a><?php endif; ?>
             </div>
         </nav>
 
@@ -537,10 +537,10 @@ $downloadAllUrl = PUBLIC_API_BASE_URL . '/folders/download/' . $shareToken;
             <div class="app-cta">
                 <h3>ارفع ملفاتك واربح مع IQBox</h3>
                 <p>شارك ملفاتك واحصل على أرباح من كل تحميل. حمّل التطبيق الآن!</p>
-                <a href="<?php echo htmlspecialchars(PLAY_STORE_URL ?: '#app-unavailable', ENT_QUOTES); ?>" class="store-btn" target="_blank">
+                <?php if (PLAY_STORE_URL): ?><a href="<?php echo htmlspecialchars(PLAY_STORE_URL ?: '#app-unavailable', ENT_QUOTES); ?>" class="store-btn" target="_blank">
                     <svg viewBox="0 0 24 24" fill="#111"><path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.199l2.807 1.626a1 1 0 0 1 0 1.732l-2.807 1.626L15.206 12l2.492-2.492zM5.864 2.658L16.8 8.99l-2.302 2.302-8.634-8.634z"/></svg>
                     <div><span class="store-btn-sub">متوفر على</span>Google Play</div>
-                </a>
+                </a><?php endif; ?>
             </div>
 
             <!-- Ad Space 3 -->

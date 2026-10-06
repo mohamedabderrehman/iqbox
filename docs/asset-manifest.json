@@ -6,12 +6,22 @@
   },
   {
     "path": "docs/images/admin-dashboard.jpg",
-    "sha256": "3a433dae0d0f7f22f3da1c3b7983fcfb36e225ac0eac04ddda544adbebf25e09",
+    "sha256": "36c70acb7a45fd95401d87195844dc8614dee2c4bda9a798b312b74bd68431a8",
     "scope": "Actual synthetic application capture"
   },
   {
     "path": "docs/images/admin-files.jpg",
-    "sha256": "1ec847713c64c27b8e05035fe11e65112fde64995a226fe7459ec29745705674",
+    "sha256": "7fc4319e71e67fcc8329cd36459b9c97a61931f1fad74372673181b5ac53f80e",
+    "scope": "Actual synthetic application capture"
+  },
+  {
+    "path": "docs/images/public-share.jpg",
+    "sha256": "3f3a59be91781883b4975291abf0103056b6ff26d40ce7459286d7acec76391b",
+    "scope": "Actual synthetic application capture"
+  },
+  {
+    "path": "docs/videos/walkthrough.mp4",
+    "sha256": "5fb48a18d220640b8aa05f004309a0b87209a0f7be9e6062c4748de1f3ae3baf",
     "scope": "Actual synthetic application capture"
   }
 ]

@@ -7,6 +7,7 @@
 // إعدادات API - استخدام localhost لأن كل شيء على نفس VPS
 define('API_BASE_URL', getenv('API_BASE_URL') ?: 'http://127.0.0.1:3000/api');
 define('API_TIMEOUT', 10);
+define('DEMO_MODE', getenv('DEMO_MODE') !== '0');
 
 // Base URL للصفحة (للاستخدام في Open Graph)
 define('SITE_BASE_URL', getenv('SITE_BASE_URL') ?: 'http://127.0.0.1:8080');

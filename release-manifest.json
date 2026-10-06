@@ -6,8 +6,8 @@
   },
   {
     "path": ".gitignore",
-    "bytes": 643,
-    "sha256": "fce9b87b29654ad57d951465929cd84564afedf9f31702b0122a0caa1321e37d"
+    "bytes": 737,
+    "sha256": "f66d2ead27d15c4a52646294c316074239ba0c889fba287b0fb36c506a5aa9be"
   },
   {
     "path": "CONTRIBUTING.md",
@@ -411,13 +411,13 @@
   },
   {
     "path": "README.ar.md",
-    "bytes": 6770,
-    "sha256": "9af535366e8e87676e0812c848a5bdc7a1a96668b54652d34207b0367024c682"
+    "bytes": 7065,
+    "sha256": "74870e807e719bc2968a5be15e0829b0ee3d7d3b192779e947e2b9f42c602b3a"
   },
   {
     "path": "README.md",
-    "bytes": 5954,
-    "sha256": "72ed0cb28fdcac8d0e078fc8f9064e567b1bb2f4d8cfa58fb0c2ddb58952dbcf"
+    "bytes": 6193,
+    "sha256": "779ae16d88f096091e1083dd74b444754d7f6e80ed51a993bf9b40a58b197f9f"
   },
   {
     "path": "SECURITY.md",
@@ -486,8 +486,8 @@
   },
   {
     "path": "admin-panel/src/pages/FilesManagement.jsx",
-    "bytes": 33302,
-    "sha256": "4a1bc0cb6c4aea3ec28ae6fb917cc007c68c926aa11cd10e52ca427e3ab9acf0"
+    "bytes": 33358,
+    "sha256": "179b6aed9b2f743e2a34bf7925742b3d9c19cca99c7799620c7a153df2ad8445"
   },
   {
     "path": "admin-panel/src/pages/FinancialSettings.jsx",
@@ -581,23 +581,23 @@
   },
   {
     "path": "docs/asset-manifest.json",
-    "bytes": 576,
-    "sha256": "b7a1aea49e6dc064395366812449545bf7d9f9fe6c1d81539a9ef957e36b3e1f"
+    "bytes": 959,
+    "sha256": "25937741a56b3f4983202853c380240b97c1b1b19a27948e1f50e9f28b8d8962"
   },
   {
     "path": "docs/case-study.ar.md",
-    "bytes": 2729,
-    "sha256": "aaf9776f693e3466232488ce7cb29b11e2b26f827bfb29004181bca5450a9a2a"
+    "bytes": 3024,
+    "sha256": "34686d5f9efe048f1e899118bf950e46741b1e0ae524882a2ee72eafe5cb1b1d"
   },
   {
     "path": "docs/case-study.md",
-    "bytes": 2182,
-    "sha256": "96c3d43f7b6c3d927d194f96b45e329b504b8a49ca501c4a453e046c6b8150d3"
+    "bytes": 2421,
+    "sha256": "365133750af87c7d9f6e79ad45a1f0c427f9b8c4338f0567d7ec3bb069f85d39"
   },
   {
     "path": "docs/demo.ar.md",
-    "bytes": 2313,
-    "sha256": "14c24df6ab07090f1b7667ab5761b6410a5a12abebe475a5c58e8321013dd193"
+    "bytes": 2608,
+    "sha256": "b883eab960a549760305fa82604a9fb689553a19855abaecf93ccba04eb42dbe"
   },
   {
     "path": "docs/demo.md",
@@ -616,48 +616,58 @@
   },
   {
     "path": "docs/images/admin-dashboard.jpg",
-    "bytes": 37093,
-    "sha256": "3a433dae0d0f7f22f3da1c3b7983fcfb36e225ac0eac04ddda544adbebf25e09"
+    "bytes": 27216,
+    "sha256": "36c70acb7a45fd95401d87195844dc8614dee2c4bda9a798b312b74bd68431a8"
   },
   {
     "path": "docs/images/admin-files.jpg",
-    "bytes": 58350,
-    "sha256": "1ec847713c64c27b8e05035fe11e65112fde64995a226fe7459ec29745705674"
+    "bytes": 38838,
+    "sha256": "7fc4319e71e67fcc8329cd36459b9c97a61931f1fad74372673181b5ac53f80e"
+  },
+  {
+    "path": "docs/images/public-share.jpg",
+    "bytes": 13319,
+    "sha256": "3f3a59be91781883b4975291abf0103056b6ff26d40ce7459286d7acec76391b"
   },
   {
     "path": "docs/setup.ar.md",
-    "bytes": 3907,
-    "sha256": "419c52a4d33f2d8f545bfb4f9a506ab050a5f348e7acfb9b12c4ddb30597c6bc"
+    "bytes": 4285,
+    "sha256": "92c200492e2297f4ce3d880f78359bb407b859c32faaa866baf88004e6ff68df"
   },
   {
     "path": "docs/setup.md",
-    "bytes": 4140,
-    "sha256": "d02dfc499d59d3418e780844e5035d39e14ad89eb4a101b475d521d0d54991bd"
+    "bytes": 4468,
+    "sha256": "e66727f1ad3935cd92e6da7d32508cb0bc4ea6ace650c3caf42d068bd866dc8a"
   },
   {
     "path": "docs/verification.ar.md",
-    "bytes": 1764,
-    "sha256": "a6e523c22924a3b264bfae631e405e7c11ccd23120409b04c4ee12b906d749de"
+    "bytes": 2059,
+    "sha256": "14f53f5f530bdf24f2f71a1ba1f5b85d1543c37daec3099fe4282889e3c703d6"
   },
   {
     "path": "docs/verification.md",
-    "bytes": 1566,
-    "sha256": "ef2c265acc625a80d4c35843a98712990da9a16d0f110cb7af56cbac6f2b69c6"
+    "bytes": 1805,
+    "sha256": "49cd99cc68fb439bc4598c97ac5bb1013b44866ba9b8eb971608296f42abb5da"
+  },
+  {
+    "path": "docs/videos/walkthrough.mp4",
+    "bytes": 88145,
+    "sha256": "5fb48a18d220640b8aa05f004309a0b87209a0f7be9e6062c4748de1f3ae3baf"
   },
   {
     "path": "docs/walkthrough.ar.md",
-    "bytes": 632,
-    "sha256": "b6fc0c8ac681f500fbff3e920a016f2ee9f060817eb1050daeba5a94cb131564"
+    "bytes": 923,
+    "sha256": "ca9bf6a46fa34b56de6c8166bff2de5ba5943fad87941dfc923afad249359394"
   },
   {
     "path": "docs/walkthrough.md",
-    "bytes": 587,
-    "sha256": "435232ca2ef52bf32f44df6d49eecd0d49942f83745a1508c6a34c217729203a"
+    "bytes": 849,
+    "sha256": "c483148c67fb1a62f9fb3f83f7f158c871f6ac625b3908b1deb636949d1d3a0b"
   },
   {
     "path": "env.example",
-    "bytes": 380,
-    "sha256": "3753b4562712f7f0d8834940f75fedb0544bdd5b37e5651e66ab6b516aae2106"
+    "bytes": 456,
+    "sha256": "740e477035dc50037e8ce07c513a40afdcd29da3a3d567681be1a2ebfe0d9c8d"
   },
   {
     "path": "middleware/auth.js",
@@ -668,11 +678,6 @@
     "path": "middleware/upload.js",
     "bytes": 1565,
     "sha256": "44a15be8c0e6d1933761872451fdabf0e4bfdb07817f48db098348195936a8e8"
-  },
-  {
-    "path": "nginx-video.conf",
-    "bytes": 2141,
-    "sha256": "18d71be474ada450682d980ffe93aad7e4d09b23c4f525a3d39ee91880323e3c"
   },
   {
     "path": "package-lock.json",
@@ -791,18 +796,18 @@
   },
   {
     "path": "video-page/config.php",
-    "bytes": 5873,
-    "sha256": "69edf12949581e3587fc4ab558a62f70682a4a41ffc142f4058995d002e983d0"
+    "bytes": 5876,
+    "sha256": "7a6a2d11e9ed02fb458782c1609a65bf5eba1a8f29cf125ce694ed1e7437ff84"
   },
   {
     "path": "video-page/file.php",
-    "bytes": 26337,
-    "sha256": "4e957efc57d49541b9743a865e2d01f11db4ae929c3a40cee022c457bbdaf2e9"
+    "bytes": 26974,
+    "sha256": "6fddc3e174372b0755a478096f3033dd41bb682366d5b0b38bf6515f6dc649d6"
   },
   {
     "path": "video-page/folder.php",
-    "bytes": 34833,
-    "sha256": "443cfd7caf860b80a9e99ebe772e436e32222ea41f9095c994c9f5411f166cc2"
+    "bytes": 35316,
+    "sha256": "dc7bb56eedd48826619e6061530fc262288eb785a3970d6de307a84d1479a74b"
   },
   {
     "path": "video-page/index.php",
@@ -810,8 +815,8 @@
     "sha256": "a16abdf495291911e5d3c0fda0821d204770327506bb2da3819d97869753618f"
   },
   {
-    "path": "video-page/nginx-video.conf",
-    "bytes": 3983,
-    "sha256": "142085c33ab191845e930f2b49b61d0a18e7d0c5fe9b4654276fb47c0b520a89"
+    "path": "video-page/router.php",
+    "bytes": 455,
+    "sha256": "a29c935d18146f41275aecf8519cdc7d9d6c0798ea141f80fbbafe74098754f7"
   }
 ]

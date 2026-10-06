@@ -227,6 +227,7 @@ $actionText = $actionTexts[$fileType] ?? 'افتح الملف';
     </style>
 </head>
 <body>
+<?php if (DEMO_MODE): ?><div style="padding:12px;text-align:center;background:#e8edf8;color:#203054">عرض ببيانات اصطناعية — لا يفترض توفر تطبيق المتجر أو مزود إعلانات حي.</div><?php endif; ?>
     <!-- Gate Ad Overlay -->
     <div class="gate" id="gateOverlay">
         <div class="gate-box">
@@ -301,10 +302,10 @@ $actionText = $actionTexts[$fileType] ?? 'افتح الملف';
                     فتح في التطبيق
                 </a>
                 
-                <a href="<?php echo htmlspecialchars(PLAY_STORE_URL ?: '#app-unavailable', ENT_QUOTES); ?>" class="btn-store" target="_blank">
+                <?php if (PLAY_STORE_URL): ?><a href="<?php echo htmlspecialchars(PLAY_STORE_URL ?: '#app-unavailable', ENT_QUOTES); ?>" class="btn-store" target="_blank">
                     <svg viewBox="0 0 24 24" fill="#111"><path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.199l2.807 1.626a1 1 0 0 1 0 1.732l-2.807 1.626L15.206 12l2.492-2.492zM5.864 2.658L16.8 8.99l-2.302 2.302-8.634-8.634z"/></svg>
                     <div><span class="btn-store-sub">ليس لديك التطبيق؟</span>حمّل من Google Play</div>
-                </a>
+                </a><?php endif; ?>
                 
                 <div class="share-row">
                     <button class="btn-sm btn-copy" onclick="copyLink()">

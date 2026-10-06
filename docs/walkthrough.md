@@ -12,3 +12,13 @@ Authenticated Android upload → API stores bytes and metadata → owner creates
 
 ![IQBox](images/admin-dashboard.jpg)
 
+## public share
+
+![IQBox](images/public-share.jpg)
+
+
+## Video
+
+[MP4 walkthrough](videos/walkthrough.mp4)
+
+An edited sequence of actual interface captures with synthetic data. It is not a continuous device recording or evidence of Android verification.
