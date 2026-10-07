@@ -661,13 +661,13 @@
   },
   {
     "path": "docs/verification.ar.md",
-    "bytes": 2059,
-    "sha256": "14f53f5f530bdf24f2f71a1ba1f5b85d1543c37daec3099fe4282889e3c703d6"
+    "bytes": 2074,
+    "sha256": "4dc0fa77ae35bb72c678e8e1046b2a6b4adda06bbddf02bac08f646b3347cd7f"
   },
   {
     "path": "docs/verification.md",
-    "bytes": 1805,
-    "sha256": "49cd99cc68fb439bc4598c97ac5bb1013b44866ba9b8eb971608296f42abb5da"
+    "bytes": 1824,
+    "sha256": "605049440aa8a6aefd103e3cd6c8fd658e4f6ef4105d63dce9b7d849db41c1ce"
   },
   {
     "path": "docs/videos/walkthrough.mp4",
