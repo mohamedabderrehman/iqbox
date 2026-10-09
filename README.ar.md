@@ -101,7 +101,7 @@ Express --> UploadStorage
 - [دراسة المشروع](docs/case-study.ar.md)
 - [التحقق](docs/verification.ar.md)
 - [مخطط البنية](docs/architecture.svg)
-- [صفحة المشروع](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/ar/projects/iqbox/)
+- [صفحة المشروع](https://mohamedabderrehmane.netlify.app/ar/projects/iqbox/)
 
 - [جولة الواجهة والفيديو](docs/walkthrough.ar.md)
 
