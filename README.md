@@ -111,7 +111,7 @@ Android builds/background transfers/deep links, repeated-view accounting and com
 - [Case study](docs/case-study.md)
 - [Verification](docs/verification.md)
 - [Architecture diagram](docs/architecture.svg)
-- [Portfolio case study](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/projects/iqbox/)
+- [Portfolio case study](https://mohamedabderrehmane.netlify.app/projects/iqbox/)
 
 - [Interface walkthrough and video](docs/walkthrough.md)
 
